@@ -14,6 +14,7 @@ export default {
 </script>
 <template>
   <main>
+    <h1>Mi-mandat Poitiers Collectif</h1>
     <div class="buttons">
     <div v-for="pole in poles" :key="pole.id">
       <button class="button-6" @click="poleChoisi = pole.pole">{{pole.pole}}</button>
@@ -104,7 +105,6 @@ background-color:#246667;}
   color: rgba(0, 0, 0, 0.65);
   transform: translateY(0);
 }
-
 .theme {
   font-weight: 700;
 }
