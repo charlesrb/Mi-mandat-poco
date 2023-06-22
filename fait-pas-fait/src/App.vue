@@ -31,7 +31,7 @@ export default {
         </span>
         <span class="check" v-else>C'est fait !</span><br/>
         <span class="theme">{{ action.theme }}</span><br />
-        {{ action.action }}<br /><br />
+        {{ action.action }}<br />
       </div>
     </div>
     </div>
