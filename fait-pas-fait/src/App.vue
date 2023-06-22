@@ -7,7 +7,7 @@ export default {
     return {
       actions: Actions,
       poles:Poles,
-      poleChoisi:"Ville d'initiatives",
+      poleChoisi:"",
     };
   },
 };
@@ -15,6 +15,7 @@ export default {
 <template>
   <main>
     <h1>Mi-mandat Poitiers Collectif</h1>
+    <!-- <h2>En 2020, l'équipe Poitiers Collectif a été élue sur la base d'un programme qui comprenait 279 actions. Après trois ans, il est temps de faire un premier bilan !</h2> -->
     <div class="buttons">
     <div v-for="pole in poles" :key="pole.id">
       <button class="button-6" @click="poleChoisi = pole.pole">{{pole.pole}}</button>
