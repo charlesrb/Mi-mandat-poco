@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "pole": "Ville d'initiatives"
+    },
+    {
+        "id": 1,
+        "pole": "Ville citoyenne"
+    },
+    {
+        "id": 2,
+        "pole": "Ville écologique"
+    },
+    {
+        "id": 3,
+        "pole": "Ville solidaire"
+    },
+    {
+        "id": 4,
+        "pole": "Grands projets"
+    }
+]
