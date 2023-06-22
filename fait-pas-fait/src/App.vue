@@ -19,16 +19,17 @@ export default {
       <button class="button-6" @click="poleChoisi = pole.pole">{{pole.pole}}</button>
     </div>
   </div>
+ 
     <div class="actions">
     <div v-for="action in actions" :key="action.id">
       <div class="actions__detail" v-if="action.pole == poleChoisi">
-      <span v-if="action.Avancement != 100">
-        <label for="file">Avancement : </label>
-        <progress id="file" max="100" :value="action.Avancement"></progress>
-      </span>
-      <span class="check" v-else>C'est fait !</span><br/>
-      <span class="theme">{{ action.theme }}</span><br />
-      {{ action.action }}<br /><br />
+        <span v-if="action.Avancement != 100">
+          <label for="file">Avancement : </label>
+          <progress id="file" max="100" :value="action.Avancement"></progress>
+        </span>
+        <span class="check" v-else>C'est fait !</span><br/>
+        <span class="theme">{{ action.theme }}</span><br />
+        {{ action.action }}<br /><br />
       </div>
     </div>
     </div>
