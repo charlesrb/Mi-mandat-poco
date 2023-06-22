@@ -44,18 +44,18 @@ main {
   width:75%;
   margin:auto;
   display:flex;
-  flex-direction: row;
+  flex-direction: column;
   gap:50px;
   align-items: flex-start;
   
 }
 .check {
-  color:green;
+  color:#246667;
   font-weight: 700;
 }
 
 progress {
-  accent-color:green;
+  accent-color:#246667;
 }
 /* CSS */
 .button-6 {
@@ -90,8 +90,8 @@ progress {
 .button-6:focus {
   border-color: rgba(0, 0, 0, 0.15);
   box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
-  color: rgba(0, 0, 0, 0.65);
-}
+  color:white;
+background-color:#246667;}
 
 .button-6:hover {
   transform: translateY(-1px);
@@ -123,8 +123,29 @@ progress {
 } 
 .buttons {
   display:flex;
-  flex-direction:column;
+  flex-direction:row;
   gap:10px;
+}
+
+@media screen and (max-width: 900px) {
+  .buttons {
+    width:100%;
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  gap:10px;
+}
+
+main {
+  width:100%;
+  /* margin:auto;
+  display:flex;
+  flex-direction: column;
+  gap:50px;
+  align-items: flex-start;
+   */
+}
+
 }
 
 .logo {
