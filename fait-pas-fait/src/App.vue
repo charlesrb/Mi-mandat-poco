@@ -7,7 +7,7 @@ export default {
     return {
       actions: Actions,
       poles:Poles,
-      poleChoisi:"",
+      poleChoisi:"Ville d'initiatives",
     };
   },
 };
