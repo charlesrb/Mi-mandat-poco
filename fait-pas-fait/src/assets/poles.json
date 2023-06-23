@@ -1,7 +1,8 @@
 [
     {
         "id": 0,
-        "pole": "Ville d'initiatives"
+        "pole": "Ville d'initiatives",
+        "themes": ["Culture et espaces publics", "Patrimoine, tourisme et archéologie"]
     },
     {
         "id": 1,
