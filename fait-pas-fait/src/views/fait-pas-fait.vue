@@ -6,22 +6,22 @@
     <div class="test">
       <div class="buttons">
         <div v-for="pole in poles" :key="pole.id">
-          <button class="button-6" @click="poleChoisi = pole.pole">{{pole.pole}}</button>
+          <button class="button-6" @click="filtre()">{{pole.pole}}</button>
         </div>
       </div>
       <div v-if="poleChoisi == 'Ville d\'initiatives'">
         <div class="buttons" v-for="pole in poles" :key="pole.id">
           <div v-for="theme in pole.themes" :key="theme.id">
-            <button class="button-7">{{ theme }}</button>
+            <button class="button-7" @click="themeChoisi = theme">{{ theme }}</button>
           </div>
         </div>
       </div>
     </div>
-    
+
     <div class="actions">
       
       <div v-for="action in actions" :key="action.id">
-        <div class="actions__detail" v-if="action.pole == poleChoisi">
+        <div class="actions__detail" v-if="action.pole == poleChoisi && action.theme == themeChoisi">
           <span v-if="action.Avancement != 100">
             <label for="file">Avancement : </label>
             <progress id="file" max="100" :value="action.Avancement"></progress>
@@ -47,7 +47,13 @@ export default {
       actions: Actions,
       poles:Poles,
       poleChoisi:"",
+      themeChoisi:""
     };
+  },
+  methods: {
+    filtre() {
+      this.isOpen = !this.isOpen;
+    },
   },
 };
 </script>
@@ -90,12 +96,12 @@ progress {
   cursor: pointer;
   display: inline-flex;
   font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 16px;
-  font-weight: 600;
+  font-size: 12px;
+  font-weight: 500;
   justify-content: center;
-  line-height: 1.25;
+  line-height: 1;
   margin: 0;
-  min-height: 3rem;
+  min-height: 2rem;
   padding: calc(.875rem - 1px) calc(1.5rem - 1px);
   position: relative;
   text-decoration: none;
@@ -195,6 +201,7 @@ background-color:#246667;}
   flex-direction:row;
   gap:10px;
   margin-bottom:10px;
+  flex-wrap:wrap;
 }
 
 @media screen and (max-width: 900px) {
