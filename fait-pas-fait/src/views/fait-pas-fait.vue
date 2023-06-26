@@ -30,6 +30,8 @@
           </span>
           <span class="check" v-else>C'est fait !</span><br/>
           <span class="theme">{{ action.theme }}</span><br />
+
+          <span class="titre">{{ action.titre }}</span><br />
           {{ action.action }}<br />
         </div>
 
@@ -40,6 +42,8 @@
           </span>
           <span class="check" v-else>C'est fait !</span><br/>
           <span class="theme">{{ action.theme }}</span><br />
+          <span class="titre">{{ action.titre }}</span><br />
+
           {{ action.action }}<br />
         </div>
     </div>
@@ -93,6 +97,12 @@ main {
   padding:0px;
   margin:0px;
 }
+
+.titre {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
 progress {
   accent-color:#246667;
 }
@@ -194,7 +204,13 @@ background-color:#246667;}
   transform: translateY(0);
 }
 .theme {
-  font-weight: 700;
+  font-weight: 400;
+  color:white;
+  padding:5px 10px;
+  font-size:12px;
+  border-radius:5px;
+  line-height: 50px;
+  background-color:#CCCF64;
 }
 .actions {
   display:flex;

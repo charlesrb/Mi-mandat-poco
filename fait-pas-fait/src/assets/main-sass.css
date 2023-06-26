@@ -127,6 +127,10 @@ h5 {
   background: #fd5d93 !important;
 }
 
+.date {
+  padding-bottom: 15px;
+}
+
 .author {
   font-family: inherit;
   padding: 3em;
@@ -163,4 +167,11 @@ h5 {
 .author .btn:visited:focus,
 .author .btn:visited:active {
   background-color: #1a1a1a;
+}
+
+@media screen and (max-width: 900px) {
+  .timeline .timeline-container {
+    position: relative;
+    margin-bottom: 2.5rem;
+  }
 }/*# sourceMappingURL=main-sass.css.map */

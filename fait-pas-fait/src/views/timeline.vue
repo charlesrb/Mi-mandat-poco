@@ -7,14 +7,16 @@
           <div class="timeline-icon">
             <i class="far fa-grin-wink"></i>
           </div>
+          
           <div class="timeline-body">
-            <img :src="action.img" class="timeline-img" alt="">
+            <p class="date">{{ action.date }} - {{ action.elu }}</p>
+            <img :src="action.img" class="timeline-img" alt="" v-if="action.img">
             <h4 class="timeline-title"><span class="badge">{{ action.qualification }}</span></h4>
             <h5>{{ action.titre }}</h5>
             <p>
               {{action.descriptif}}
             </p>
-            <p class="timeline-subtitle">{{action.elu}} - {{action.date}}</p>
+            <!-- <p class="timeline-subtitle">{{action.elu}}</p> -->
           </div>
         </div>
 <!-- 
