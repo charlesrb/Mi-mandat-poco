@@ -3,22 +3,22 @@
     <Navigation></Navigation>
     <div class="container">
       <div class="timeline">
-        <div class="timeline-container primary">
+        <div class="timeline-container primary" v-for="action in timeline" :key="action.id">
           <div class="timeline-icon">
             <i class="far fa-grin-wink"></i>
           </div>
           <div class="timeline-body">
-            <h4 class="timeline-title"><span class="badge">Elections</span></h4>
-            <h5>Explosion d'émotions</h5>
+            <img :src="action.img" class="timeline-img" alt="">
+            <h4 class="timeline-title"><span class="badge">{{ action.qualification }}</span></h4>
+            <h5>{{ action.titre }}</h5>
             <p>
-              Avant même la fin du dépouillement, AC se déclare vaincu. Joie
-              dans les bureaux de vote, Place Charles VII, dans la rue. Arrivée
-              euphorique à la Mairie. On ne sait pas ce qui nous attend, on est
-              heureux !
+              {{action.descriptif}}
             </p>
-            <p class="timeline-subtitle">Claude Thibault - Juin 2020</p>
+            <p class="timeline-subtitle">{{action.elu}} - {{action.date}}</p>
           </div>
         </div>
+<!-- 
+
         <div class="timeline-container danger">
           <div class="timeline-icon">
             <i class="far fa-grin-hearts"></i>
@@ -95,7 +95,7 @@
                 le jour du lancement de la flotte Pony sur Poitiers, je me souviens des groupes de jeunes poitevins et poitevines se masser devant les vélos et trottinettes nouvellement installées, des etoiles plein les yeux.            </p>
             <p class="timeline-subtitle">Frankie Angebault - 18 octobre 2022</p>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </main>
@@ -103,8 +103,16 @@
 
 <script>
 import Navigation from "../components/Navigation.vue";
+import Timeline from "../assets/timeline.json";
+
 export default {
   components: { Navigation },
+  data() {
+    return {
+      timeline: Timeline
+     
+    };
+}
 };
 </script>
 
