@@ -6,18 +6,22 @@
     },
     {
         "id": 1,
-        "pole": "Ville citoyenne"
+        "pole": "Ville citoyenne",
+        "themes":["Budget et finances", "Coopération internationale et européenne", "Evaluation des politiques publiques", "Numérique responsable", "Participation citoyenne", "Personnel communal", "Tranquillité publique et sécurité", "Vie associative", "Ville accueillante"]
     },
     {
         "id": 2,
-        "pole": "Ville écologique"
+        "pole": "Ville écologique", 
+        "themes": ["Bientraitance animale", "Mobilités", "Parcs, jardins et espaces naturels en ville", "Patrimoine exemplaire", "Résilience, prévention et gestion des risques", "Restauration collective", "Urbanisme", "Végétalisation et éducation à la nature", "Voirie et éclairage public", "Zéro déchet"]
     },
     {
         "id": 3,
-        "pole": "Ville solidaire"
+        "pole": "Ville solidaire", 
+        "themes":["Droits aux loisirs et aux vacances", "Education", "Education populaire et maison de quartier", "Egalité des droits", "Jeunesse et vie étudiante", "Logement et lutte contre l'habitat insalubre", "Petite enfance", "Santé et prévention", "Solidarités", "Ville amie des aînées et aînés"]
     },
     {
         "id": 4,
-        "pole": "Grands projets"
+        "pole": "Grands projets",
+        "themes":["Quartier de la gare de Poitiers", "Tiers-lieu La Caserne", "Le Palais", "Quartier du Pont-Neuf", "L'écoquartier des Montgorges"]
     }
 ]

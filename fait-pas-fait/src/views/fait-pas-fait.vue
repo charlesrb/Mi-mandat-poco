@@ -6,22 +6,34 @@
     <div class="test">
       <div class="buttons">
         <div v-for="pole in poles" :key="pole.id">
-          <button class="button-6" @click="filtre()">{{pole.pole}}</button>
+          <button class="button-6" @click="filtre(pole.pole)">{{pole.pole}}</button>
         </div>
       </div>
-      <div v-if="poleChoisi == 'Ville d\'initiatives'">
-        <div class="buttons" v-for="pole in poles" :key="pole.id">
+      <div v-for="pole in poles" :key="pole.id">
+      <div v-if="poleChoisi == pole.pole">
+        <div class="buttons">
           <div v-for="theme in pole.themes" :key="theme.id">
             <button class="button-7" @click="themeChoisi = theme">{{ theme }}</button>
           </div>
         </div>
       </div>
     </div>
+    </div>
 
     <div class="actions">
       
       <div v-for="action in actions" :key="action.id">
-        <div class="actions__detail" v-if="action.pole == poleChoisi && action.theme == themeChoisi">
+        <div class="actions__detail" v-if="action.pole == poleChoisi && themeChoisi == ''">
+          <span v-if="action.Avancement != 100">
+            <label for="file">Avancement : </label>
+            <progress id="file" max="100" :value="action.Avancement"></progress>
+          </span>
+          <span class="check" v-else>C'est fait !</span><br/>
+          <span class="theme">{{ action.theme }}</span><br />
+          {{ action.action }}<br />
+        </div>
+
+        <div class="actions__detail" v-else-if="action.pole == poleChoisi && action.theme == themeChoisi">
           <span v-if="action.Avancement != 100">
             <label for="file">Avancement : </label>
             <progress id="file" max="100" :value="action.Avancement"></progress>
@@ -51,8 +63,9 @@ export default {
     };
   },
   methods: {
-    filtre() {
-      this.isOpen = !this.isOpen;
+    filtre(pole) {
+      this.poleChoisi = pole;
+      this.themeChoisi = "";
     },
   },
 };
