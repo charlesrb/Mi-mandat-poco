@@ -3,7 +3,7 @@
         "pole": "Grands projets",
         "theme": "Quartier de la gare de Poitiers",
         "action": "Des mobilités améliorées : le secteur de la gare de Poitiers est un lieu de convergence de toutes les formes de mobilités qui doivent chacune trouver leur place au sein d’un espace public repensé et apaisé, notamment le boulevard ; ",
-        "Avancement": 50
+        "Avancement": "50"
       },
       {
         "pole": "Grands projets",
@@ -65,344 +65,407 @@
         "action": "Ouverture de la galerie d'exposition Le Miroir",
         "Avancement": "100"
       },
-      {
-        "pole": "Ville d'initiatives",
-        "titre":"Culture Commune",
-        "theme": "Culture et espaces publics",
-        "action": "Construire les orientations de la politique culturelle avec les acteurs artistiques et culturels, et animer un dialogue permanent au cours du mandat, autour de la démarche Culture Commune ",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "titre":"Evaluation des conventions culturelles",
-        "theme": "Culture et espaces publics",
-        "action": "Procéder, avant toute nouvelle convention, à une évaluation de l'activité des structures artistiques et culturelles financées par Grand Poitiers et la Ville à l'aune des droits culturels, et les évaluer en fin de convention",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Culture et espaces publics",
-        "action": "Assurer le pilotage global du projet du Quartier du Palais, du Palais, et de l’offre événementielle proposée ; faire évoluer le projet de grand événementiel « Traversées »",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Culture et espaces publics",
-        "action": "Poursuivre et généraliser les parcours d’éducation artistique et culturel tout au long de la scolarité, en travaillant à l’attribution du label Villes 100% EAC (Education Artistique et Culturelle) ",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Culture et espaces publics",
-        "action": "Encourager le développement de la vie culturelle dans les espaces publics (équipements publics diversifiés dans leurs usages, espaces extérieurs, espaces verts…)",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Culture et espaces publics",
-        "action": "Ouvrir davantage les équipements publics (écoles, gymnases, lieux culturels) à des initiatives culturelles, éducatives, sportives, citoyennes ou associatives, et à de nouvelles activités (pratiques urbaines…)",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Culture et espaces publics",
-        "action": "Accompagner les acteurs artistiques et culturels du territoire dans le développement de leur activité, en leur proposant un soutien financier, technique, logistique ; soutenir l’économie de la culture et des loisirs, notamment en participant au GIP Café Culture",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Culture et espaces publics",
-        "action": "Encourager les événements citoyens festifs dans la ville et soutenir les initiatives d’habitants",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Patrimoine, tourisme et archéologie",
-        "action": "Engager et poursuivre les travaux de restauration du patrimoine historique de la ville",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Patrimoine, tourisme et archéologie",
-        "action": "Accompagner le pilotage du Quartier du Palais, du Palais, et des événementiels dédiés ; investir le Palais et notamment la salle des Pas Perdus comme une place publique traversante et ouverte à tous ",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Patrimoine, tourisme et archéologie",
-        "action": "Travailler en concertation avec Grand Poitiers via l’office de tourisme communautaire pour développer une politique touristique qui valorise le patrimoine culturel, historique, et naturel de Poitiers ",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Patrimoine, tourisme et archéologie",
-        "action": "Impliquer les habitants et habitants dans la valorisation du patrimoine à travers différentes propositions et manifestations",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Patrimoine, tourisme et archéologie",
-        "action": "Valoriser le patrimoine historique à travers des temps forts d'animation dans la ville",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Vie sportive",
-        "action": "Valoriser l’ensemble des disciplines sportives auprès du public, particulièrement les disciplines méconnues, via des événements co-construits avec les acteurs ; s’appuyer sur des relais de communication comme l’Office Municipal des Sports ",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Vie sportive",
-        "action": "Développer la pratique du sport dans tous les quartiers : développer un « bonus quartier prioritaire » pour les subventions aux clubs sportifs, intervenir en soutien des opérations en faveur de la pratique du sports dans tous les quartiers",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Vie sportive",
-        "action": "Encourager la pratique des sports urbains/libres, leur offrir de nouveaux espaces de pratique (SkatePark, mobilier skatable) et événementiels (Festival 3x3), inscrire le sport dans la ville par l’ouverture d’espaces inédits",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Vie sportive",
-        "action": "Accompagner l’émergence de nouvelles disciplines, proposer une vision complémentaire du sport avec la valorisation du tissu e-sport",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Vie sportive",
-        "action": "Garantir l’entretien des équipements en accès libre existants (city stades, terrains de 3x3…), améliorer leur confort ; favoriser la pratique du sport nature/plein air ",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Vie sportive",
-        "action": "Développer le sport scolaire et périscolaire : garantir le « savoir nager » et le « savoir rouler » par le biais des écoles de Poitiers ; maintenir la diversité de l’offre et faciliter l’accès aux établissements scolaires, en termes de mobilité, à Poitiers et Grand Poitiers ; établir des passerelles entre « Vacances pour tous » et le périscolaire",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Vie sportive",
-        "action": "Promouvoir l’égalité dans le sport : valoriser le sport féminin par une équivalence des aides entre les associations dédiées au sport féminin et au sport masculin, poursuivre les bonus pour les clubs qui s’engagent en ce sens, et développer la visibilité du sport féminin dans la Ville ; valoriser le sport adapté et le handisport ",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Vie sportive",
-        "action": "Soutenir les clubs et la vie associative : construire les évolutions de la politique sportive avec les acteurs du sport, et animer un dialogue permanent au cours du mandat ; simplifier la vie administrative des associations",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Emploi et insertion",
-        "action": "Accompagner les acteurs dans leurs difficultés de recrutement, notamment sur les secteurs en tension",
-        "Avancement": "100"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Emploi et insertion",
-        "action": "Soutenir l’innovation sociale au service de l’insertion et de la création d’emploi dans les quartiers ",
-        "Avancement": "100"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Emploi et insertion",
-        "action": "Soutenir et développer les formes mutualisées d’emploi, en particulier dans les quartiers politique de la ville ",
-        "Avancement": "100"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Emploi et insertion",
-        "action": "Associer la Ville de Poitiers au développement d’événementiels dédiés à l’emploi, en particulier envers le public jeune (étudiants, jeunesse des quartiers prioritaires)",
-        "Avancement": "100"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Emploi et insertion",
-        "action": "Favoriser l’expérimentation d’activités économiques et de commerces pour créer de l’emploi dans les quartiers politique de la ville ",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Emploi et insertion",
-        "action": "Accompagner l’expérimentation « Territoire Zéro Chômeur Longue Durée » ",
-        "Avancement": "100"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Emploi et insertion",
-        "action": "Renforcer la politique de commande publique responsable en matière d’insertion, en impliquant les Structures de l'Insertion par l'Activité Economique (SIAE)",
-        "Avancement": "100"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Emploi et insertion",
-        "action": "Développer l’emploi durable au service de la transition écologique. Exemples de soutiens à l'émergence de filières locales : cyclologistique, réemploi des matériaux dans le bâtiment, collecte et traitement des biodéchets",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Développement local et ESS",
-        "action": "Accompagner l’expérimentation économique sur le territoire ",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Développement local et ESS",
-        "action": "Animer le réseau et encourager la coopération entre acteurs de l’Économie Sociale et Solidaire",
-        "Avancement": "100"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Développement local et ESS",
-        "action": "Soutenir les mutualisations d’emplois et de services ",
-        "Avancement": "0"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Développement local et ESS",
-        "action": "Investir davantage les réseaux locaux, nationaux et européens liés à l'Economie Sociale et Solidaire",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Développement local et ESS",
-        "action": "Soutenir la création d'espaces hybrides de type tiers-lieux, dans tous les quartiers de Poitiers",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Développement local et ESS",
-        "action": "Animer des espaces de ressources facilitant l'accès des entreprises locales à la commande publique, en leur permettant notamment d'avoir une visibilité sur les futurs achats de la commune, comme le Club de la Commande Publique pour les projets de construction",
-        "Avancement": "100"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Développement local et ESS",
-        "action": "Développer la création et/ou développer les activités de Sociétés Publiques Locales (SPL), Sociétés d'Économie Mixte (SEM) et Sociétés Coopératives d'Intérêt Collectif (SCIC), dans plusieurs champs",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commerce, marchés et artisanat",
-        "action": "Animer le partenariat avec les organisations de commerçantes et commerçants, soutenir leurs initiatives, et accompagner les commerces dans leur développement",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commerce, marchés et artisanat",
-        "action": "Soutenir une politique d’animation au service de la vitalité du commerce de proximité, et encourager l’appropriation de l’espace public pour les commerçants de proximité",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commerce, marchés et artisanat",
-        "action": "Accompagner le passage à l’ère numérique pour les commerçants, en particulier par une politique de formation",
-        "Avancement": "100"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commerce, marchés et artisanat",
-        "action": "Soutenir l’offre artistique de proximité dans les bars, les cafés, les restaurants, en participant au GIP Café Culture  ",
-        "Avancement": "100"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commerce, marchés et artisanat",
-        "action": "Renouveler les animations (Noël, braderie) pour mieux valoriser les productions locales et commerces de proximité, diversifier les lieux d’animation de la ville en particulier des animations de Noël, afin qu’elles soient présentes dans chaque quartier",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commerce, marchés et artisanat",
-        "action": "Faire évoluer le modèle des Halles, et engager une réflexion globale sur la réhabilitation des Halles et du quartier Notre-Dame ",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commerce, marchés et artisanat",
-        "action": "Lancer et développer des « boutiques éphémères », pour permettre à des artisans, créateurs locaux ou commerçants de tester une activité commerciale de manière temporaire ",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commerce, marchés et artisanat",
-        "action": "Soutenir la réappropriation des locaux vacants en bas d’immeubles par des activités commerciales, pour favoriser l’accès à des services de proximité et l’occupation de l’espace public dans chaque quartier ",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commerce, marchés et artisanat",
-        "action": "Soutenir l’économie circulaire, à l’échelle de l’économie de proximité, par exemple concevoir en commun un service de traitement des biodéchets",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commerce, marchés et artisanat",
-        "action": "Soutenir l'émergence de filières locales, comme la cyclologistique",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commerce, marchés et artisanat",
-        "action": "Être à l’écoute des métiers les plus précaires de l’économie de proximité, et identifier des solutions pour répondre à leurs besoins, en particulier les services de livraison à domicile.",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Enseignement supérieur, recherche et innovation",
-        "action": "Faire de Poitiers une ville accueillante pour les étudiantes et étudiants",
-        "Avancement": "100"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Enseignement supérieur, recherche et innovation",
-        "action": "Valoriser l’ouverture à l’international de Poitiers par le biais de sa vie universitaire : accompagner l’accueil des étudiants et chercheurs étrangers, soutenir les partenariats internationaux des établissements d’enseignement supérieur et encourager les projets mutualisés et avec la collectivité",
-        "Avancement": "100"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Enseignement supérieur, recherche et innovation",
-        "action": "Structurer des partenariats étroits et des opportunités de coopération entre l’Université et le territoire au service de l’emploi et de l’innovation, développer les événements et outils dynamiques pour mettre en lien les étudiants et les employeurs du territoire, en s’appuyant notamment sur les partenaires tels que le CROUS",
-        "Avancement": "100"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Enseignement supérieur, recherche et innovation",
-        "action": "Favoriser les liens entre la recherche et le territoire : s'inscrire dans une logique de partenariat avec l'Université, la Région, les acteurs économiques du territoire, pour accompagner le développement des liens entre la recherche et les activités économiques locales ; être à l’écoute et en soutien de toute initiative portée en coopération par des acteurs locaux ; mobiliser l’expertise issue des laboratoires de recherche localisés sur le territoire au service des politiques publiques, dans toutes les disciplines ; associer les équipes de recherche à la structuration et l'amélioration de l'évaluation des politiques publiques de la collectivité.",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commande publique responsable",
-        "action": "Se doter d’une politique d’achats publics responsables en incluant, pour tout marché public, des conditions sociales (respect des droits sociaux, clauses d’insertion), environnementales (impact écologique) et locales, lorsque la loi le permet, et travailler sur l'allotissement (réduction de la taille de lots) pour mieux adapter les marchés aux réalités de l'offre ",
-        "Avancement": "100"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commande publique responsable",
-        "action": "Encourager l’innovation sur les conditions peu développées en France, répondant à nos objectifs politiques, par exemple la prise en compte de la bientraitance animale",
-        "Avancement": "0"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commande publique responsable",
-        "action": "Impulser une dynamique avec les autres institutions publiques de Poitiers et Grand Poitiers pour les impliquer dans une démarche de commande publique vertueuse, et tendre vers un Schéma de Promotion des Achats Socialement et Ecologiquement Responsables (SPASER) territorial",
-        "Avancement": "50"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commande publique responsable",
-        "action": "Développer la sous-traitance de services municipaux à des structures d’Insertion par l’Activité Économique ",
-        "Avancement": "100"
-      },
-      {
-        "pole": "Ville d'initiatives",
-        "theme": "Commande publique responsable",
-        "action": "Animer les espaces de ressources facilitant l'accès des entreprises locales à la commande publique, en leur permettant notamment d'avoir une visibilité sur les futurs achats de la commune.",
-        "Avancement": "50"
-      },
+      
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Culture et espaces publics",
+            "titre": "Culture Commune",
+            "action": "Construire les orientations de la politique culturelle avec les acteurs artistiques et culturels, et animer un dialogue permanent au cours du mandat, autour de la démarche Culture Commune ",
+            "Avancement": "75"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Culture et espaces publics",
+            "titre": "Evaluation des conventions culturelles",
+            "action": "Procéder, avant toute nouvelle convention, à une évaluation de l'activité des structures artistiques et culturelles financées par Grand Poitiers et la Ville à l'aune des droits culturels, et les évaluer en fin de convention",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Culture et espaces publics",
+            "titre": "Pilotage du projet du Palais",
+            "action": "Assurer le pilotage global du projet du Quartier du Palais, du Palais, et de l’offre événementielle proposée ; faire évoluer le projet de grand événementiel « Traversées »",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Culture et espaces publics",
+            "titre": "Développement de l'éducation artistique et culturelle",
+            "action": "Poursuivre et généraliser les parcours d’éducation artistique et culturel tout au long de la scolarité, en travaillant à l’attribution du label Villes 100% EAC (Education Artistique et Culturelle) ",
+            "Avancement": 25
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Culture et espaces publics",
+            "titre": "Encourager le développement de la vie culturelle dans les espaces publics",
+            "action": "Encourager le développement de la vie culturelle dans les espaces publics (équipements publics diversifiés dans leurs usages, espaces extérieurs, espaces verts…)",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Culture et espaces publics",
+            "titre": "Ouvrir davantage les équipements publics aux actiités culturelles, sportives et éducatives",
+            "action": "Ouvrir davantage les équipements publics (écoles, gymnases, lieux culturels) à des initiatives culturelles, éducatives, sportives, citoyennes ou associatives, et à de nouvelles activités (pratiques urbaines…)",
+            "Avancement": 25
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Culture et espaces publics",
+            "titre": "Soutenir et accompagner les acteurs artistiques et culturels du territoire",
+            "action": "Accompagner les acteurs artistiques et culturels du territoire dans le développement de leur activité, en leur proposant un soutien financier, technique, logistique ; soutenir l’économie de la culture et des loisirs, notamment en participant au GIP Café Culture",
+            "Avancement": "75"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Culture et espaces publics",
+            "titre": "Encourager les événements citoyens festifs dans la ville et soutenir les initiatives d’habitants",
+            "action": "Encourager les événements citoyens festifs dans la ville et soutenir les initiatives d’habitants",
+            "Avancement": "75"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Patrimoine, tourisme et archéologie",
+            "titre": "Restaurer le patrimoine historique de la Ville",
+            "action": "Engager et poursuivre les travaux de restauration du patrimoine historique de la ville",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Patrimoine, tourisme et archéologie",
+            "titre": "Evenementiel au Palais",
+            "action": "Accompagner le pilotage du Quartier du Palais, du Palais, et des événementiels dédiés ; investir le Palais et notamment la salle des Pas Perdus comme une place publique traversante et ouverte à tous ",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Patrimoine, tourisme et archéologie",
+            "titre": "Développer une politique touristique qui valorise le patrimoine culturel, historique et naturel",
+            "action": "Travailler en concertation avec Grand Poitiers via l’office de tourisme communautaire pour développer une politique touristique qui valorise le patrimoine culturel, historique, et naturel de Poitiers ",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Patrimoine, tourisme et archéologie",
+            "titre": "Impliquer les habitants et habitants dans la valorisation du patrimoine",
+            "action": "Impliquer les habitantes et habitants dans la valorisation du patrimoine à travers différentes propositions et manifestations",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Patrimoine, tourisme et archéologie",
+            "titre": "Valoriser le patrimoine historique à travers des temps forts d'animation dans la ville\r\n",
+            "action": "Valoriser le patrimoine historique à travers des temps forts d'animation dans la ville",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Vie sportive",
+            "titre": "Valoriser l’ensemble des disciplines sportives auprès du public",
+            "action": "Valoriser l’ensemble des disciplines sportives auprès du public, particulièrement les disciplines méconnues, via des événements co-construits avec les acteurs ; s’appuyer sur des relais de communication comme l’Office Municipal des Sports ",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Vie sportive",
+            "titre": "Développer la pratique du sport dans tous les quartiers",
+            "action": "Développer la pratique du sport dans tous les quartiers : développer un « bonus quartier prioritaire » pour les subventions aux clubs sportifs, intervenir en soutien des opérations en faveur de la pratique du sports dans tous les quartiers",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Vie sportive",
+            "titre": "Encourager la pratique des sports urbains/libres",
+            "action": "Encourager la pratique des sports urbains/libres, leur offrir de nouveaux espaces de pratique (SkatePark, mobilier skatable) et événementiels (Festival 3x3), inscrire le sport dans la ville par l’ouverture d’espaces inédits",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Vie sportive",
+            "titre": "Accompagner l'émergence de nouvelles discipline sportives et esportives",
+            "action": "Accompagner l’émergence de nouvelles disciplines, proposer une vision complémentaire du sport avec la valorisation du tissu e-sport",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Vie sportive",
+            "titre": "Garantir l’entretien et l'amélioration des équipements en accès libre existants",
+            "action": "Garantir l’entretien des équipements en accès libre existants (city stades, terrains de 3x3…), améliorer leur confort ; favoriser la pratique du sport nature/plein air ",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Vie sportive",
+            "titre": "Développer le sport scolaire et périscolaire",
+            "action": "Développer le sport scolaire et périscolaire : garantir le « savoir nager » et le « savoir rouler » par le biais des écoles de Poitiers ; maintenir la diversité de l’offre et faciliter l’accès aux établissements scolaires, en termes de mobilité, à Poitiers et Grand Poitiers ; établir des passerelles entre « Vacances pour tous » et le périscolaire",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Vie sportive",
+            "titre": "Promouvoir l’égalité dans le sport",
+            "action": "Promouvoir l’égalité dans le sport : valoriser le sport féminin par une équivalence des aides entre les associations dédiées au sport féminin et au sport masculin, poursuivre les bonus pour les clubs qui s’engagent en ce sens, et développer la visibilité du sport féminin dans la Ville ; valoriser le sport adapté et le handisport ",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Vie sportive",
+            "titre": "Soutenir les clubs et la vie associative",
+            "action": "Soutenir les clubs et la vie associative : construire les évolutions de la politique sportive avec les acteurs du sport, et animer un dialogue permanent au cours du mandat ; simplifier la vie administrative des associations",
+            "Avancement": "75"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Emploi et insertion",
+            "titre": "Accompagner les acteurs dans leurs difficultés de recrutement",
+            "action": "Accompagner les acteurs dans leurs difficultés de recrutement, notamment sur les secteurs en tension",
+            "Avancement": "75"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Emploi et insertion",
+            "titre": "Soutenir l’innovation sociale au service de l’insertion et de la création d’emploi dans les quartiers ",
+            "action": "Soutenir l’innovation sociale au service de l’insertion et de la création d’emploi dans les quartiers ",
+            "Avancement": "75"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Emploi et insertion",
+            "titre": "Soutenir et développer les formes mutualisées d’emploi",
+            "action": "Soutenir et développer les formes mutualisées d’emploi, en particulier dans les quartiers politique de la ville ",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Emploi et insertion",
+            "titre": "Développer des événementiels emploi dans les quartiers",
+            "action": "Associer la Ville de Poitiers au développement d’événementiels dédiés à l’emploi, en particulier envers le public jeune (étudiants, jeunesse des quartiers prioritaires)",
+            "Avancement": "100"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Emploi et insertion",
+            "titre": "Développer de l'activité dans les quartiers",
+            "action": "Favoriser l’expérimentation d’activités économiques et de commerces pour créer de l’emploi dans les quartiers politique de la ville ",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Emploi et insertion",
+            "titre": "Accompagner l’expérimentation « Territoire Zéro Chômeur Longue Durée » ",
+            "action": "Accompagner l’expérimentation « Territoire Zéro Chômeur Longue Durée » ",
+            "Avancement": "100"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Emploi et insertion",
+            "titre": "Renforcer la politique de commande publique responsable en matière d’insertion",
+            "action": "Renforcer la politique de commande publique responsable en matière d’insertion, en impliquant les Structures de l'Insertion par l'Activité Economique (SIAE)",
+            "Avancement": "100"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Emploi et insertion",
+            "titre": "Développer l’emploi durable au service de la transition écologique",
+            "action": "Développer l’emploi durable au service de la transition écologique. Exemples de soutiens à l'émergence de filières locales : cyclologistique, réemploi des matériaux dans le bâtiment, collecte et traitement des biodéchets",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Développement local et ESS",
+            "titre": "Accompagner l’expérimentation économique sur le territoire ",
+            "action": "Accompagner l’expérimentation économique sur le territoire ",
+            "Avancement": "75"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Développement local et ESS",
+            "titre": "Animer le réseau et encourager la coopération entre acteurs de l’Économie Sociale et Solidaire",
+            "action": "Animer le réseau et encourager la coopération entre acteurs de l’Économie Sociale et Solidaire",
+            "Avancement": "100"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Développement local et ESS",
+            "titre": "S'investir dans les réseaux nationaux de l'ESS",
+            "action": "Investir davantage les réseaux locaux, nationaux et européens liés à l'Economie Sociale et Solidaire",
+            "Avancement": "75"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Développement local et ESS",
+            "titre": "Développer les tiers-lieux",
+            "action": "Soutenir la création d'espaces hybrides de type tiers-lieux, dans tous les quartiers de Poitiers",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Développement local et ESS",
+            "titre": "A fusionner avec ligne 57 ?",
+            "action": "Animer des espaces de ressources facilitant l'accès des entreprises locales à la commande publique, en leur permettant notamment d'avoir une visibilité sur les futurs achats de la commune, comme le Club de la Commande Publique pour les projets de construction",
+            "Avancement": "75"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Développement local et ESS",
+            "titre": "Développer les structures de l'économie mixte et de l'ESS",
+            "action": "Développer la création et/ou développer les activités de Sociétés Publiques Locales (SPL), Sociétés d'Économie Mixte (SEM) et Sociétés Coopératives d'Intérêt Collectif (SCIC), dans plusieurs champs",
+            "Avancement": "100"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commerce, marchés et artisanat",
+            "titre": "Animer le partenariat avec les organisations de commerçantes et commerçants",
+            "action": "Animer le partenariat avec les organisations de commerçantes et commerçants, soutenir leurs initiatives, et accompagner les commerces dans leur développement",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commerce, marchés et artisanat",
+            "titre": "Soutenir une politique d’animation au service de la vitalité du commerce de proximité,",
+            "action": "Soutenir une politique d’animation au service de la vitalité du commerce de proximité, et encourager l’appropriation de l’espace public pour les commerçants de proximité",
+            "Avancement": "75"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commerce, marchés et artisanat",
+            "titre": "Accompagner le passage à l’ère numérique pour les commerçants",
+            "action": "Accompagner le passage à l’ère numérique pour les commerçants, en particulier par une politique de formation",
+            "Avancement": "100"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commerce, marchés et artisanat",
+            "titre": "Participer au GIP café culture",
+            "action": "Soutenir l’offre artistique de proximité dans les bars, les cafés, les restaurants, en participant au GIP Café Culture  ",
+            "Avancement": "100"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commerce, marchés et artisanat",
+            "titre": "Renouveler les animations (Noël, braderie) pour mieux valoriser les productions locales et commerces de proximité,",
+            "action": "Renouveler les animations (Noël, braderie) pour mieux valoriser les productions locales et commerces de proximité, diversifier les lieux d’animation de la ville en particulier des animations de Noël, afin qu’elles soient présentes dans chaque quartier",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commerce, marchés et artisanat",
+            "titre": "Engager une réflexion globale sur la réhabilitation des Halles et du quartier Notre-Dame",
+            "action": "Faire évoluer le modèle des Halles, et engager une réflexion globale sur la réhabilitation des Halles et du quartier Notre-Dame ",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commerce, marchés et artisanat",
+            "titre": "Lancer et développer des « boutiques éphémères »",
+            "action": "Lancer et développer des « boutiques éphémères », pour permettre à des artisans, créateurs locaux ou commerçants de tester une activité commerciale de manière temporaire ",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commerce, marchés et artisanat",
+            "titre": "Soutenir la réappropriation des locaux vacants en bas d’immeubles par des activités commerciales",
+            "action": "Soutenir la réappropriation des locaux vacants en bas d’immeubles par des activités commerciales, pour favoriser l’accès à des services de proximité et l’occupation de l’espace public dans chaque quartier ",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commerce, marchés et artisanat",
+            "titre": "Soutenir l’économie circulaire",
+            "action": "Soutenir l’économie circulaire, à l’échelle de l’économie de proximité, par exemple concevoir en commun un service de traitement des biodéchets",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commerce, marchés et artisanat",
+            "titre": "Soutenir l'émergence de filières locales, comme la cyclologistique",
+            "action": "Soutenir l'émergence de filières locales, comme la cyclologistique",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commerce, marchés et artisanat",
+            "titre": "Être à l’écoute des métiers les plus précaires de l’économie de proximité",
+            "action": "Être à l’écoute des métiers les plus précaires de l’économie de proximité, et identifier des solutions pour répondre à leurs besoins, en particulier les services de livraison à domicile.",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Enseignement supérieur, recherche et innovation",
+            "titre": "Poitiers, ville étudiante accueillante",
+            "action": "Faire de Poitiers une ville accueillante pour les étudiantes et étudiants",
+            "Avancement": "75"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Enseignement supérieur, recherche et innovation",
+            "titre": "Une vie universitaire internationale",
+            "action": "Valoriser l’ouverture à l’international de Poitiers par le biais de sa vie universitaire : accompagner l’accueil des étudiants et chercheurs étrangers, soutenir les partenariats internationaux des établissements d’enseignement supérieur et encourager les projets mutualisés et avec la collectivité",
+            "Avancement": "100"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Enseignement supérieur, recherche et innovation",
+            "titre": "L'accès à l'emploi des étudiants",
+            "action": "Structurer des partenariats étroits et des opportunités de coopération entre l’Université et le territoire au service de l’emploi et de l’innovation, développer les événements et outils dynamiques pour mettre en lien les étudiants et les employeurs du territoire, en s’appuyant notamment sur les partenaires tels que le CROUS",
+            "Avancement": "100"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Enseignement supérieur, recherche et innovation",
+            "titre": "Favoriser les liens entre la recherche et le territoire",
+            "action": "Favoriser les liens entre la recherche et le territoire : s'inscrire dans une logique de partenariat avec l'Université, la Région, les acteurs économiques du territoire, pour accompagner le développement des liens entre la recherche et les activités économiques locales ; être à l’écoute et en soutien de toute initiative portée en coopération par des acteurs locaux ; mobiliser l’expertise issue des laboratoires de recherche localisés sur le territoire au service des politiques publiques, dans toutes les disciplines ; associer les équipes de recherche à la structuration et l'amélioration de l'évaluation des politiques publiques de la collectivité.",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commande publique responsable",
+            "titre": "Une politique d'achats responsable",
+            "action": "Se doter d’une politique d’achats publics responsables en incluant, pour tout marché public, des conditions sociales (respect des droits sociaux, clauses d’insertion), environnementales (impact écologique) et locales, lorsque la loi le permet, et travailler sur l'allotissement (réduction de la taille de lots) pour mieux adapter les marchés aux réalités de l'offre ",
+            "Avancement": "100"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commande publique responsable",
+            "titre": "La bientraitance animale dans la commande publique",
+            "action": "Encourager l’innovation sur les conditions peu développées en France, répondant à nos objectifs politiques, par exemple la prise en compte de la bientraitance animale",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commande publique responsable",
+            "titre": "Coopérer avec les grands donneurs d'ordre publics autour de nos commandes publiques",
+            "action": "Impulser une dynamique avec les autres institutions publiques de Poitiers et Grand Poitiers pour les impliquer dans une démarche de commande publique vertueuse, et tendre vers un Schéma de Promotion des Achats Socialement et Ecologiquement Responsables (SPASER) territorial",
+            "Avancement": "75"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commande publique responsable",
+            "titre": "L'accès renforcé des SIAE à notre commande publique",
+            "action": "Développer la sous-traitance de services municipaux à des structures d’Insertion par l’Activité Économique ",
+            "Avancement": "100"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Commande publique responsable",
+            "titre": "Echanger avec les entreprises sur notre commande publique",
+            "action": "Animer les espaces de ressources facilitant l'accès des entreprises locales à la commande publique, en leur permettant notamment d'avoir une visibilité sur les futurs achats de la commune.",
+            "Avancement": "50"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Vie sportive",
+            "titre": "Baignade à Tison",
+            "action": "Mettre en place une baignade sécurisée dans le Clain à Tison.",
+            "Avancement": "100"
+          },
+          {
+            "pole": "Ville d'initiatives",
+            "theme": "Culture et espaces publics",
+            "titre": "Le Miroir",
+            "action": "Ouverture de la galerie d'exposition Le Miroir",
+            "Avancement": "100"
+          },
+        
       {
         "pole": "Ville citoyenne",
         "theme": "Ville accueillante",

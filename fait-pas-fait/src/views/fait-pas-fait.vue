@@ -13,13 +13,22 @@
       <div v-if="poleChoisi == pole.pole">
         <div class="buttons">
           <div v-for="theme in pole.themes" :key="theme.id">
-            <button class="button-7" @click="themeChoisi = theme">{{ theme }}</button>
+            <button class="button-7" @click="avancement(theme)">{{ theme }}</button>
           </div>
         </div>
       </div>
     </div>
     </div>
+    <ul>
+      <li>Il y a {{  this.zero + this.quart + this.moitie + this.troisquart + this.termine}} actions dans le programme</li>
+      <li v-if="this.zero != 0">{{ this.zero }} actions pas commencées</li>
+      <li v-if="this.quart != 0">{{ this.quart }} actions commencées à 25%</li>
+      <li v-if="this.moitie !=0">{{ this.moitie }} actions commencées à 50%</li>
+      <li v-if="this.troisquart !=0">{{ this.troisquart }} actions commencées à 75%</li>
+      <li v-if="this.termine !=0">{{ this.termine }} actions terminées !</li>
 
+
+    </ul>
     <div class="actions">
       
       <div v-for="action in actions" :key="action.id">
@@ -63,15 +72,91 @@ export default {
       actions: Actions,
       poles:Poles,
       poleChoisi:"",
-      themeChoisi:""
+      themeChoisi:"",
+      zero:0,
+      quart:0,
+      moitie:0,
+      termine:0
     };
   },
   methods: {
     filtre(pole) {
       this.poleChoisi = pole;
       this.themeChoisi = "";
-    },
+      this.zero = 0
+      this.quart = 0
+      this.moitie = 0
+      this.troisquart = 0
+      this.termine = 0
+      for (const action of this.actions) {
+        if (action.pole == this.poleChoisi && action.Avancement == "25") 
+      {
+        this.quart = this.quart + 1;
+      } 
+      else if (action.pole == this.poleChoisi && action.Avancement == "50")
+      {
+        this.moitie = this.moitie + 1;
+      } 
+      else if (action.pole == this.poleChoisi && action.Avancement == "0")
+      {
+        this.zero = this.zero + 1;
+      } 
+      else if (action.pole == this.poleChoisi && action.Avancement == "75")
+      {
+        this.troisquart = this.troisquart + 1;
+      } 
+      else if (action.pole == this.poleChoisi && action.Avancement == "100")
+      {
+        this.termine = this.termine + 1;
+      } 
+    }
+    },  
+    avancement(theme) {
+      this.themeChoisi = theme;
+      this.quart = 0;
+      this.moitie = 0;
+      this.zero = 0;
+      this.troisquart = 0;
+      this.termine = 0
+      for (const action of this.actions) {
+        if (action.pole == this.poleChoisi && action.theme == this.themeChoisi && action.Avancement == "25") 
+      {
+        console.log("fuck you");
+        this.quart = this.quart + 1;
+      } 
+      else if (action.pole == this.poleChoisi && action.theme == this.themeChoisi && action.Avancement == "50")
+      {
+        console.log("fuck you");
+        this.moitie = this.moitie + 1;
+      } 
+      else if (action.pole == this.poleChoisi && action.theme == this.themeChoisi && action.Avancement == "0")
+      {
+        console.log("fuck you");
+        this.zero = this.zero + 1;
+      } 
+      else if (action.pole == this.poleChoisi && action.theme == this.themeChoisi && action.Avancement == "75")
+      {
+        this.troisquart = this.troisquart + 1;
+      } 
+      else if (action.pole == this.poleChoisi && action.theme == this.themeChoisi && action.Avancement == "100")
+      {
+        this.termine = this.termine + 1;
+      } 
+    }
+    }
+    
   },
+  // computed() {
+  //   for (const action of Actions) {
+  //     if (action.pole == this.poleChoisi && action.theme == this.themeChoisi && action.Avancement == "50") 
+  //     {
+  //       console.log("fuck you");
+  //       this.zero =+ 1;
+  //     } 
+  //   }
+  //   console.log(Actions);
+  // }
+
 };
 </script>
 
