@@ -107,7 +107,7 @@ h5 {
     text-transform: uppercase;
   }
   .timeline .timeline-body .timeline-title .badge {
-    background: #4f537b;
+    background: #246667;
     padding: 4px 8px;
     border-radius: 3px;
     font-size: 12px;
@@ -192,11 +192,12 @@ h5 {
   }
   .timeline:before {
     content: "";
-    left: 0;
+    position: absolute;
+    left: -20px;
     top: 0;
-    width: 2px;
+    width: 1px;
     height: 100%;
-    background: gray;
+    background: #246667;
   }
   .timeline .timeline-container {
     position: relative;
@@ -251,7 +252,7 @@ h5 {
     text-transform: uppercase;
   }
   .timeline-body .timeline-title .badge {
-    background: #4f537b;
+    background: #246667;
     padding: 4px 8px;
     border-radius: 3px;
     font-size: 12px;
