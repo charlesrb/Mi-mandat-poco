@@ -21,7 +21,11 @@ const router = createRouter({
         name: "timeline",
         component: Timeline,
       }
-    ]
+    ],
+    navigationFallback: {
+      rewrite: "/index.html",
+      exclude: ["/images/*.{png,jpg,gif}", "/css/*"],
+    },
   });
   
   export default router;

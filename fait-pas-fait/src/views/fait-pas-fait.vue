@@ -6,9 +6,12 @@
     <div class="test">
       <div class="buttons">
         <div v-for="pole in poles" :key="pole.id">
+          
           <button class="button-6" @click="filtre(pole.pole)">{{pole.pole}}</button>
         </div>
+        
       </div>
+      
       <div v-for="pole in poles" :key="pole.id">
       <div v-if="poleChoisi == pole.pole">
         <div class="buttons">
@@ -17,26 +20,48 @@
           </div>
         </div>
       </div>
+      
     </div>
+    
     </div>
+    <div v-if="themeChoisi == '' && poleChoisi == ''">
+    </div>
+    <div v-else>
+
     <ul>
-      <li>Il y a {{  this.zero + this.quart + this.moitie + this.troisquart + this.termine}} actions dans le programme</li>
-      <li v-if="this.zero != 0">{{ this.zero }} actions pas commencées</li>
-      <li v-if="this.quart != 0">{{ this.quart }} actions commencées à 25%</li>
-      <li v-if="this.moitie !=0">{{ this.moitie }} actions commencées à 50%</li>
-      <li v-if="this.troisquart !=0">{{ this.troisquart }} actions commencées à 75%</li>
-      <li v-if="this.termine !=0">{{ this.termine }} actions terminées !</li>
+      
+      <li>🤩 Il y a {{  this.zero + this.quart + this.moitie + this.troisquart + this.termine}} actions dans le programme</li>
+      <li v-if="this.zero != 0">❌ {{ this.zero }} actions pas commencées</li>
+      <li v-if="this.quart != 0">😄 {{ this.quart }} actions commencées à 25%</li>
+      <li v-if="this.moitie !=0">💪 {{ this.moitie }} actions commencées à 50%</li>
+      <li v-if="this.troisquart !=0">👏 {{ this.troisquart }} actions commencées à 75%</li>
+      <li v-if="this.termine !=0">✅ {{ this.termine }} actions terminées !</li>
 
 
     </ul>
+  </div>
     <div class="actions">
       
       <div v-for="action in actions" :key="action.id">
-        <div class="actions__detail" v-if="action.pole == poleChoisi && themeChoisi == ''">
-          <span v-if="action.Avancement != 100">
+        <div class="actions__detail" v-if="poleChoisi == 'Tout voir' && themeChoisi == ''">
+          <span v-if="action.Avancement != 100 && action.Avancement != 0">
             <label for="file">Avancement : </label>
             <progress id="file" max="100" :value="action.Avancement"></progress>
           </span>
+          <span class="not-check" v-else-if="action.Avancement == '0'">C'est pas commencé, ou abandonné</span>
+          <span class="check" v-else>C'est fait !</span><br/>
+
+          <span class="theme">{{ action.theme }}</span><br />
+
+          <span class="titre">{{ action.titre }}</span><br />
+          {{ action.action }}<br />
+        </div>
+        <div class="actions__detail" v-else-if="action.pole == poleChoisi && themeChoisi == ''">
+          <span v-if="action.Avancement != 100 && action.Avancement != 0">
+            <label for="file">Avancement : </label>
+            <progress id="file" max="100" :value="action.Avancement"></progress>
+          </span>
+          <span class="not-check" v-else-if="action.Avancement == '0'">C'est pas commencé, ou abandonné</span>
           <span class="check" v-else>C'est fait !</span><br/>
           <span class="theme">{{ action.theme }}</span><br />
 
@@ -45,6 +70,18 @@
         </div>
 
         <div class="actions__detail" v-else-if="action.pole == poleChoisi && action.theme == themeChoisi">
+          <span v-if="action.Avancement != 100 && action.Avancement != 0">
+            <label for="file">Avancement : </label>
+            <progress id="file" max="100" :value="action.Avancement"></progress>
+          </span>
+          <span class="not-check" v-else-if="action.Avancement == '0'">C'est pas commencé, ou abandonné</span>
+          <span class="check" v-else>C'est fait !</span><br/>
+          <span class="theme">{{ action.theme }}</span><br />
+          <span class="titre">{{ action.titre }}</span><br />
+
+          {{ action.action }}<br />
+        </div>
+        <div class="actions__detail" v-else-if="poleChoisi == 'Tout voir' && action.theme == themeChoisi">
           <span v-if="action.Avancement != 100">
             <label for="file">Avancement : </label>
             <progress id="file" max="100" :value="action.Avancement"></progress>
@@ -89,23 +126,23 @@ export default {
       this.troisquart = 0
       this.termine = 0
       for (const action of this.actions) {
-        if (action.pole == this.poleChoisi && action.Avancement == "25") 
+        if ((action.pole == this.poleChoisi || this.poleChoisi == 'Tout voir') && action.Avancement == "25") 
       {
         this.quart = this.quart + 1;
       } 
-      else if (action.pole == this.poleChoisi && action.Avancement == "50")
+      else if ((action.pole == this.poleChoisi || this.poleChoisi == 'Tout voir') && action.Avancement == "50")
       {
         this.moitie = this.moitie + 1;
       } 
-      else if (action.pole == this.poleChoisi && action.Avancement == "0")
+      else if ((action.pole == this.poleChoisi || this.poleChoisi == 'Tout voir') && action.Avancement == "0")
       {
         this.zero = this.zero + 1;
       } 
-      else if (action.pole == this.poleChoisi && action.Avancement == "75")
+      else if ((action.pole == this.poleChoisi || this.poleChoisi == 'Tout voir') && action.Avancement == "75")
       {
         this.troisquart = this.troisquart + 1;
       } 
-      else if (action.pole == this.poleChoisi && action.Avancement == "100")
+      else if ((action.pole == this.poleChoisi || this.poleChoisi == 'Tout voir') && action.Avancement == "100")
       {
         this.termine = this.termine + 1;
       } 
@@ -119,26 +156,26 @@ export default {
       this.troisquart = 0;
       this.termine = 0
       for (const action of this.actions) {
-        if (action.pole == this.poleChoisi && action.theme == this.themeChoisi && action.Avancement == "25") 
+        if ((action.pole == this.poleChoisi || this.poleChoisi == 'Tout voir') && action.theme == this.themeChoisi && action.Avancement == "25") 
       {
         console.log("fuck you");
         this.quart = this.quart + 1;
       } 
-      else if (action.pole == this.poleChoisi && action.theme == this.themeChoisi && action.Avancement == "50")
+      else if ((action.pole == this.poleChoisi || this.poleChoisi == 'Tout voir') && action.theme == this.themeChoisi && action.Avancement == "50")
       {
         console.log("fuck you");
         this.moitie = this.moitie + 1;
       } 
-      else if (action.pole == this.poleChoisi && action.theme == this.themeChoisi && action.Avancement == "0")
+      else if ((action.pole == this.poleChoisi || this.poleChoisi == 'Tout voir') && action.theme == this.themeChoisi && action.Avancement == "0")
       {
         console.log("fuck you");
         this.zero = this.zero + 1;
       } 
-      else if (action.pole == this.poleChoisi && action.theme == this.themeChoisi && action.Avancement == "75")
+      else if ((action.pole == this.poleChoisi || this.poleChoisi == 'Tout voir') && action.theme == this.themeChoisi && action.Avancement == "75")
       {
         this.troisquart = this.troisquart + 1;
       } 
-      else if (action.pole == this.poleChoisi && action.theme == this.themeChoisi && action.Avancement == "100")
+      else if ((action.pole == this.poleChoisi || this.poleChoisi == 'Tout voir') && action.theme == this.themeChoisi && action.Avancement == "100")
       {
         this.termine = this.termine + 1;
       } 
@@ -146,15 +183,34 @@ export default {
     }
     
   },
-  // computed() {
-  //   for (const action of Actions) {
-  //     if (action.pole == this.poleChoisi && action.theme == this.themeChoisi && action.Avancement == "50") 
+  // created() {
+  //   this.zero = 0
+  //     this.quart = 0
+  //     this.moitie = 0
+  //     this.troisquart = 0
+  //     this.termine = 0
+  //     for (const action of this.actions) {
+  //       if (action.pole == this.poleChoisi && action.Avancement == "25") 
   //     {
-  //       console.log("fuck you");
-  //       this.zero =+ 1;
+  //       this.quart = this.quart + 1;
+  //     } 
+  //     else if (action.pole == this.poleChoisi && action.Avancement == "50")
+  //     {
+  //       this.moitie = this.moitie + 1;
+  //     } 
+  //     else if (action.pole == this.poleChoisi && action.Avancement == "0")
+  //     {
+  //       this.zero = this.zero + 1;
+  //     } 
+  //     else if (action.pole == this.poleChoisi && action.Avancement == "75")
+  //     {
+  //       this.troisquart = this.troisquart + 1;
+  //     } 
+  //     else if (action.pole == this.poleChoisi && action.Avancement == "100")
+  //     {
+  //       this.termine = this.termine + 1;
   //     } 
   //   }
-  //   console.log(Actions);
   // }
 
 };
@@ -173,8 +229,16 @@ main {
   align-items: flex-start;
   
 }
+li {
+  list-style:none;
+}
 .check {
   color:#246667;
+  font-weight: 700;
+}
+
+.not-check {
+  color:red;
   font-weight: 700;
 }
 
@@ -205,12 +269,12 @@ progress {
   display: inline-flex;
   font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 12px;
-  font-weight: 500;
+  font-weight: 400;
   justify-content: center;
   line-height: 1;
   margin: 0;
   min-height: 2rem;
-  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  padding: calc(.1rem - 1px) calc(0.5rem - 1px);
   position: relative;
   text-decoration: none;
   transition: all 250ms;

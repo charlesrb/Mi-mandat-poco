@@ -1,27 +1,27 @@
 [
     {
         "id": 0,
+        "pole": "Tout voir",
+        "themes": ["Culture et espaces publics", "Patrimoine, tourisme et archéologie", "Vie sportive", "Emploi et insertion", "Développement local et ESS", "Commerce, marchés et artisanat", "Enseignement supérieur, recherche et innovation", "Commande publique responsable","Budget et finances", "Coopération internationale et européenne", "Evaluation des politiques publiques", "Numérique responsable", "Participation citoyenne", "Personnel communal", "Tranquillité publique et sécurité", "Vie associative", "Ville accueillante","Bientraitance animale", "Mobilités", "Parcs, jardins et espaces naturels en ville", "Patrimoine exemplaire", "Résilience, prévention et gestion des risques", "Restauration collective", "Urbanisme", "Végétalisation et éducation à la nature", "Voirie et éclairage public", "Zéro déchet","Droits aux loisirs et aux vacances", "Education", "Education populaire et maison de quartier", "Egalité des droits", "Jeunesse et vie étudiante", "Logement et lutte contre l'habitat insalubre", "Petite enfance", "Santé et prévention", "Solidarités", "Ville amie des aînées et aînés"]
+    },
+    {
+        "id": 1,
         "pole": "Ville d'initiatives",
         "themes": ["Culture et espaces publics", "Patrimoine, tourisme et archéologie", "Vie sportive", "Emploi et insertion", "Développement local et ESS", "Commerce, marchés et artisanat", "Enseignement supérieur, recherche et innovation", "Commande publique responsable"]
     },
     {
-        "id": 1,
+        "id": 2,
         "pole": "Ville citoyenne",
         "themes":["Budget et finances", "Coopération internationale et européenne", "Evaluation des politiques publiques", "Numérique responsable", "Participation citoyenne", "Personnel communal", "Tranquillité publique et sécurité", "Vie associative", "Ville accueillante"]
     },
     {
-        "id": 2,
+        "id": 3,
         "pole": "Ville écologique", 
         "themes": ["Bientraitance animale", "Mobilités", "Parcs, jardins et espaces naturels en ville", "Patrimoine exemplaire", "Résilience, prévention et gestion des risques", "Restauration collective", "Urbanisme", "Végétalisation et éducation à la nature", "Voirie et éclairage public", "Zéro déchet"]
     },
     {
-        "id": 3,
+        "id": 4,
         "pole": "Ville solidaire", 
         "themes":["Droits aux loisirs et aux vacances", "Education", "Education populaire et maison de quartier", "Egalité des droits", "Jeunesse et vie étudiante", "Logement et lutte contre l'habitat insalubre", "Petite enfance", "Santé et prévention", "Solidarités", "Ville amie des aînées et aînés"]
-    },
-    {
-        "id": 4,
-        "pole": "Grands projets",
-        "themes":["Quartier de la gare de Poitiers", "Tiers-lieu La Caserne", "Le Palais", "Quartier du Pont-Neuf", "L'écoquartier des Montgorges"]
     }
 ]
