@@ -5,11 +5,15 @@
       <div class="timeline">
         <div class="timeline-container primary" v-for="action in timeline" :key="action.id">
           <div class="timeline-icon">
+            <img :src="action.imgelu" alt="">
             <i class="far fa-grin-wink"></i>
           </div>
           
           <div class="timeline-body">
+            <!-- <div class="timeline-elu">
+            <img :src="action.imgelu" alt=""> -->
             <p class="date">{{ action.date }} - {{ action.elu }}</p>
+          <!-- </div> -->
             <img :src="action.img" class="timeline-img" alt="" v-if="action.img">
             <h4 class="timeline-title"><span class="badge">{{ action.qualification }}</span></h4>
             <h5>{{ action.titre }}</h5>

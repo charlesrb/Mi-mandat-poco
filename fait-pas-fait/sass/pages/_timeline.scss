@@ -45,6 +45,7 @@ p {
 h5 {
     color:black;
     font-weight: 700;
+    text-transform: uppercase;
 }
 // timeline style
 .timeline {
@@ -69,10 +70,10 @@ h5 {
 
         .timeline-icon {
             position: absolute;
-            left: -88px;
+            left: -114px;
             top: 4px;
-            width: 50px;
-            height: 50px;
+            width: 100px;
+            height: 100px;
             border-radius: 50%;
             text-align: center;
             font-size: 2rem;
@@ -91,6 +92,15 @@ h5 {
                 border-radius: 50%;
             }
         }
+.timeline-elu {
+    display:flex;
+    flex-direction: row;
+    & img {
+        width:25%;
+        height:25%;
+        border-radius:100%;
+    }
+}
 .timeline-img {
     width:100%;
     margin-bottom:20px;
@@ -115,6 +125,9 @@ h5 {
 
             .timeline-title {
                 margin-bottom: 1.4rem;
+                &::first-letter {
+                    text-transform: uppercase;
+                }
 
                 .badge {
                     background: $secondary;
