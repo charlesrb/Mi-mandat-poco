@@ -18,6 +18,6 @@ nav {
   display:flex;
   flex-direction:row;
   gap:20px;
-color:#246667;
+  color:#246667;
 }
 </style>

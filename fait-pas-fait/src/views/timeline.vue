@@ -2,7 +2,7 @@
   <main>
     <Navigation></Navigation>
     <h1>Timeline 2020 - 2023</h1>
-    <h2>(INTRODUCTION A FAIRE) En 2020, l'équipe Poitiers Collectif a été élue sur la base d'un programme qui comprenait 248 actions. Après trois ans, il est temps de faire un premier bilan !</h2>
+    <h2>(INTRODUCTION A FAIRE) En 2020, l'équipe Poitiers Collectif a été élue sur la base d'un programme qui comprenait 248 actions. Après trois ans, il est temps de faire un premier bilan&#xA0;!</h2>
 
     <div class="container">
       <div class="timeline">
