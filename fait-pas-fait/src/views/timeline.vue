@@ -1,6 +1,9 @@
 <template>
   <main>
     <Navigation></Navigation>
+    <h1>Timeline 2020 - 2023</h1>
+    <h2>(INTRODUCTION A FAIRE) En 2020, l'équipe Poitiers Collectif a été élue sur la base d'un programme qui comprenait 248 actions. Après trois ans, il est temps de faire un premier bilan !</h2>
+
     <div class="container">
       <div class="timeline">
         <div class="timeline-container primary" v-for="action in timeline" :key="action.id">
@@ -8,11 +11,10 @@
             <img :src="action.imgelu" alt="">
             <i class="far fa-grin-wink"></i>
           </div>
-          
           <div class="timeline-body">
             <!-- <div class="timeline-elu">
             <img :src="action.imgelu" alt=""> -->
-            <p class="date">{{ action.date }} - {{ action.elu }}</p>
+            <p class="date">{{ action.date }} - <span class="elu">{{ action.elu }}</span></p>
           <!-- </div> -->
             <img :src="action.img" class="timeline-img" alt="" v-if="action.img">
             <h4 class="timeline-title"><span class="badge">{{ action.qualification }}</span></h4>

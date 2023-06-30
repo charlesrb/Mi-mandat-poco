@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Niramit:300,300i,700');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 // reset some browser default styles
 * {
@@ -6,6 +7,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 
 // colors
 $primary: #246667;
@@ -23,7 +25,7 @@ $timeline-body-round: 3px;
 $timeline-body-shadow: 1px 3px 9px rgba(0,0,0, .1);
 
 body {
-    font-family: 'K2D', sans-serif;
+    font-family: 'League Spartan', sans-serif;  
     // background: $body-bg;
     letter-spacing: 1px;
 }
@@ -33,6 +35,8 @@ body {
     max-width: 650px;
     margin: 50px auto;
 }
+
+
 
 // typography
 p {
@@ -46,6 +50,8 @@ h5 {
     color:black;
     font-weight: 700;
     text-transform: uppercase;
+    margin-bottom:10px;
+    font-size:16px;
 }
 // timeline style
 @media screen and (min-width: 601px)  {
@@ -127,7 +133,7 @@ h5 {
             }
 
             .timeline-title {
-                margin-bottom: 1.4rem;
+                margin-bottom: 1rem;
                 &::first-letter {
                     text-transform: uppercase;
                 }
@@ -136,8 +142,8 @@ h5 {
                     background: $primary;
                     padding: 4px 8px;
                     border-radius: 3px;
-                    font-size: 12px;
-                    font-weight: bold;
+                    font-size: 14px;
+                    // font-weight: bold;
                 }
             }
 
@@ -194,6 +200,7 @@ h5 {
 }
 
 .date {
+ 
     
     padding-bottom:15px;
 }

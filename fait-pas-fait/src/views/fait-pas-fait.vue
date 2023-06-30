@@ -2,7 +2,7 @@
   <main>
     <Navigation></Navigation>
     <h1>Mi-mandat Poitiers Collectif</h1>
-    <!-- <h2>En 2020, l'équipe Poitiers Collectif a été élue sur la base d'un programme qui comprenait 279 actions. Après trois ans, il est temps de faire un premier bilan !</h2> -->
+    <h2>(INTRODUCTION A FAIRE) En 2020, l'équipe Poitiers Collectif a été élue sur la base d'un programme qui comprenait 248 actions. Après trois ans, il est temps de faire un premier bilan !</h2>
     <div class="test">
       <div class="buttons">
         <div v-for="pole in poles" :key="pole.id">
@@ -217,6 +217,8 @@ export default {
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
 header {
   line-height: 1.5;
 }
@@ -225,9 +227,12 @@ main {
   margin:auto;
   display:flex;
   flex-direction: column;
-  gap:50px;
   align-items: flex-start;
   
+}
+ul {
+  margin-top:50px;
+  margin-bottom:50px;
 }
 li {
   list-style:none;
@@ -267,7 +272,7 @@ progress {
   color: rgba(0, 0, 0, 0.85);
   cursor: pointer;
   display: inline-flex;
-  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: 'League Spartan', sans-serif;  
   font-size: 12px;
   font-weight: 400;
   justify-content: center;
@@ -314,10 +319,10 @@ background-color:#CCCF64
   border-radius: .25rem;
   box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
   box-sizing: border-box;
-  color: rgba(0, 0, 0, 0.85);
+  color: #246667;
   cursor: pointer;
   display: inline-flex;
-  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: 'League Spartan', sans-serif;  
   font-size: 16px;
   font-weight: 600;
   justify-content: center;

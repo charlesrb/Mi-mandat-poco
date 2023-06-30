@@ -10,6 +10,21 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 
+
+main {
+  width:75%;
+  margin:auto;
+  display:flex;
+  flex-direction: column;
+  gap:50px;
+  align-items: flex-start;
+  
+}
+nav {
+
+  width:75%;
+  margin:auto;
+}
 </style>

@@ -1,19 +1,44 @@
 @import './base.css';
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 #app {
   max-width: 1280px;
   margin: 0 auto;
  padding:20px;
   font-weight: normal;
+  font-family: 'League Spartan', sans-serif;  
+
+  
 }
 
 a,
 .green {
   text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
+  color: #246667;
   transition: 0.4s;
+  font-family: 'League Spartan', sans-serif;  
 }
 
+a:hover {
+  color:#cbce64;
+}
+
+h1 {
+  font-family: 'League Spartan', sans-serif;  
+  font-weight: 700;
+  text-transform:uppercase;
+  color: #246667;
+  margin-top:30px;
+  margin-bottom:20px;
+
+}
+
+h2 {
+  /* font-family: 'Libre Baskerville', serif; */
+  font-family: 'League Spartan', sans-serif;  
+  color:#cbce64;
+  margin-bottom:50px;
+}
 /* @media (hover: hover) {
   a:hover {
     background-color: hsla(160, 100%, 37%, 0.2);
