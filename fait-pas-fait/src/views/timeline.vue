@@ -2,7 +2,7 @@
   <main>
     <Navigation></Navigation>
     <h1>Timeline 2020 - 2023</h1>
-    <h2>(INTRODUCTION A FAIRE) En 2020, l'équipe Poitiers Collectif a été élue sur la base d'un programme qui comprenait 248 actions. Après trois ans, il est temps de faire un premier bilan&#xA0;!</h2>
+    <h2>Voilà maintenant trois ans que nous sommes élu.e.s... Trois ans de gestion d'une ville au quotidien, de belles réalisations, de belles projections pour les années à venir, mais aussi trois ans d'apprentissage de la vie d'élu.e.s ! Pour nous qui portons l'ambition de permettre à chaque citoyen.ne de s'engager dans la vie politique locale, endosser le costume, concilier vie professionnelle, familiale et politique, ne fut pas toujours chose facile. Sans parler des multiples surprises que nous a réservées ce début de mandat ! Retrouvez ici un aperçu de nos trois années vécues, à hauteur d'hommes et de femmes élu.e.s la fleur au fusil, et engagé.e.s comme au premier jour</h2>
 
     <div class="container">
       <div class="timeline">

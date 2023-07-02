@@ -3,9 +3,8 @@
     <Navigation></Navigation>
     <h1>Mi-mandat Poitiers Collectif</h1>
     <h2>
-      (INTRODUCTION A FAIRE) En 2020, l'équipe Poitiers Collectif a été élue sur
-      la base d'un programme qui comprenait 248 actions. Après trois ans, il est
-      temps de faire un premier bilan&#xA0;!
+      En 2020, l'équipe Poitiers Collectif a été élue sur la base d'un programme. Un programme, décliné en feuilles de route dès les premières semaines du mandat. Pour ce qui dépend de la Ville de Poitiers, nous avons identifié 248 actions. Après trois ans, il est temps de faire un premier bilan ! Fait, pas fait ? Nous avons engagé, parfois terminé, plus de 90% de ces actions. Découvrez en un coup d'oeil les déclinaisons de nos engagements de campagne en objectifs politiques et actions concrètes.
+A noter que nombre d'actions de notre programme dépendaient de Grand Poitiers. Vous pourrez alors retrouver des détails dans notre bilan détaillé !
     </h2>
     <div class="test">
       <div class="buttons">
