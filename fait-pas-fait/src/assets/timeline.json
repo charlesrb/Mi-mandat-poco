@@ -1,578 +1,535 @@
 [
-    {
-      "date": "28 juin 2020",
-      "elu": "Frankie ANGEBAULT",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Frankie-Angebault.jpg",
-      "img":"https://poitierscollectif.fr/wp-content/uploads/2023/06/frankie-election.jpeg",
-      "qualification": "Mes premières émotions",
-      "titre": "Dépouillement",
-      "descriptif": "Je me souviens du soir de l'élection. Pendant que le dépouillement se déroule, je reçois des messages annonçant la victoire de Poitiers Collectif. Les larmes de joie me sont montées aux yeux. Certains me demandaient si j'avais des infos : je m'entends encore leur répondre \"Non Non\" . Heureusement le port du masque en vigueur à l'époque m'a permis de garder une image de neutralité en ce moment très fort en émotion."
-    },
-    {
-      "date": "28 juin 2020",
-      "elu": "Claude THIBAULT",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/06/IMG_4503.jpg",
-      "qualification": "Elections",
-      "titre": "Explosion d'émotions",
-      "descriptif": "Avant même la fin du dépouillement, Alain Claeys se déclare vaincu. Joie dans les bureaux de vote, Place Charles VII, dans la rue. Arrivée euphorique à la Mairie. On ne sait pas ce qui nous attend, on est heureux !"
-    },
-    {
-      "date": "29 juin 2020",
-      "elu": "Charles REVERCHON-BILLOT",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4450.jpg",
-      "img":"https://poitierscollectif.fr/wp-content/uploads/2020/06/106151086_3867235106680571_3209431458215790160_n.jpg",
-      "qualification": "Ma première impression",
-      "titre": "Le tourbillon médiatique !",
-      "descriptif": "Dès le lendemain de l'élection, j'ai été très surpris du tourbillon médiatique qui nous est tombé dessus ! A peine raccroché avec un·e journaliste, que le téléphone sonnait. M6, France 2, RTL, Libération, LCI, toute la presse nationale voulait son interview de la nouvelle Maire élue la veille !"
-    },
-    {
-      "date": "29 juin 2020",
-      "elu": "Clémence POURROY",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
-      "qualification": "Nouveauté",
-      "titre": "Elu.es, et maintenant ? ",
-      "descriptif": "Hier, 28 juin, nous avons fêté la victoire, mais surtout cet élan collectif qui nous a portés pendant la campagne. Aujourd'hui, je réalise. Je suis élue. Placée en 37e position sur la liste, ce n'était pas tout à fait prévu pour moi. Avec un travail à Paris et deux jeunes enfants à la maison, je n'étais pas sûre de pouvoir m'engager à plein temps dans un mandat municipal. Qu'à cela ne tienne, allons-y ensemble ! C'est ça, le collectif."
-    },
-    {
-      "date": "De juin 2020 à fin 2021",
-      "elu": "Chantal NOCQUET",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Chantal-Nocquet.jpg",
-      "qualification": "un début de mandat chaotique",
-      "titre": "rentrer dans la peau d'un.e élu.e",
-      "descriptif": "Je n'ai pas à jongler avec l'activité professionnelle. Difficulté d'entrer dans un mandat imprévu. Comment concilier vie d'élue et vie privée?. Extrême violence de la période COVID quand on ne se trouve pas \"du bon côté\": sentiment d'exclusion, dichotomie entre le souvenir d'une campagne municipale exaltante et la réalité du moment. \r\nAvantage de connaître le système : militantisme politique + expérience d'un premier mandat.\r\nExcellent souvenir de mon premier mariage pour moi qui avait plutôt des réticences avec cette \"norme\""
-    },
-    {
-      "date": "De juin 2020 à fin 2021",
-      "elu": "Laurence DAURY REIG",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/06/IMG_8609.jpg",
-      "qualification": "Premières émotions",
-      "titre": "La joie et l'angoisse",
-      "descriptif": "Je me souviens des premiers heures, jours, mois du mandat. Les larmes de joie, l'excitation, la gravité. L'angoisse aussi, du premier discours aucunement anticipé !"
-    },
-    {
-      "date": "Juin et juillet 2020",
-      "elu": "Alexandra DUVAL",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Image-d%E2%80%99iOS.jpg",
-      "img":"https://poitierscollectif.fr/wp-content/uploads/2020/07/Florence-L%C3%A9onore.jpeg",
-      "qualification": "Fierté militante !",
-      "titre": "Femmes au pouvoir !",
-      "descriptif": "L'élection de Léonore Moncond'huy en tant que maire(sse) de Poitiers et celle de Florence Jardin en tant que présidente de Grand Poitiers. \r\nDeux femmes à la tête des collectivités. Ni une anomalie, ni une exception. Un ancrage, une réappropriation et une lutte contre le pouvoir patriarcal.\r\nComme l'a dit la présidente lors de son éléction, le territoire est sous le signe de l'audace et la bienveillance. Désormais il faut y ajouter \"femmes, pionnières et solidaires !\""
-    },
-    {
-      "date": "juillet 2020",
-      "elu": "Samira BARRO-KONATE",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4426.jpg",
-      "qualification": "Les premières pierres de Vacances pour toutes et tous",
-      "titre": "Vent de panique",
-      "descriptif": "Je ne mesurais pas ce que représentait un mandat politique. Je voyais en ça une nouvelle expérience humaine en accord avec mes valeurs et mes idéaux. Je me suis sentie très chanceuse lorsque j'ai su que je porterais la délégation Vacances pour toutes et tous. Et il a fallu aller vite... très vite! Une façon très intense de rentrer dans un mandat politique. Apprendre comment fonctionne une collectivité, stresser, devoir comprendre les modèles de subvention, stresser, trouver des partenaires, stresser, ne pas trouver d'autres modèles existants et surtout avoir peur que cela ne fonctionne pas. Pourtant, grâce à un travail conséquent, du soutien et probablement un alignement des planètes, vinrent les premières propositions, les inscriptions et les premiers départs. Et c'est ainsi que nous avons posé les premières pierres de cette belle politique. Ce fût intense, fatigant mais tellement satisfaisant!"
-    },
-    {
-      "date": "2 juillet 2020",
-      "elu": "Clémence POURROY",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
-
-      "qualification": "Nouveauté",
-      "titre": "Choisir un sujet, et pour 6 ans !",
-      "descriptif": "Après plusieurs jours d'attente, le téléphone sonne. Le collectif qui s'est réuni pour répartir les charges en respectant à la fois nos voeux exprimés à l'avance et des ratios de représentativité (bon courage à eux !) passe les coups de téléphone. C'est Stéphane qui m'appelle : \"patrimoine historique, ça t'irait ?\" Je demande 1 heure de réflexion. Et le rappelle 5 minutes plus tard : c'est d'accord ! Quel sujet passionnant pour une ville deux fois millénaire comme Poitiers !"
-    },
-    {
-      "date": "3 juillet 2020",
-      "elu": "Julie REYNARD",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Julie-Reynard.jpg",
-      "qualification": "Premier Conseil",
-      "titre": "Perdus",
-      "descriptif": "JE me souvens du premier conseil où les services avaient organisé des files pour tout un tas de choses à nous donner. Je me souviens avoir fait la queue avec Alex B pour avoir au final un ticket pour les parkings qui ne me servira jamais et Alex n'a pas le permis ! JE me souviens de ce temps ultraaaaa long pour le maquillage où je suis sortie avec des yeux barbouillés et un fonc de tein horrible. Les photos s'en souviennent !"
-    },
-    {
-      "date": "14 juillet 2020",
-      "elu": "Léonore MONCOND'HUY",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Leonore-Moncondhuy.jpg",
-      "qualification": "Premier 14 juillet",
-      "titre": "Ca se fait, ça se fait pas ? Usages protocolaires...",
-      "descriptif": "14 juillet 2020 : première cérémonie officielle, la fierté de voir notre belle équipe municipale qui avait sorti les habits du dimanche, et le parcours un peu solitaire de la Maire entourée du \"haut protocole\"... Malgré le contexte encore covidé, ce fut une belle cérémonie, couronnée par un concert de la fanfare de la 9e BIMA. Portée par l'émotion, la dernière note jouée, je me mets à applaudir à tout rompre ! Avant de me rendre compte que j'étais la seule parmi le rang protocolaire... \"Ca se fait ? Ca se fait pas ?\" la première d'une longue série de questions d'apprentissage !"
-    },
-   
-    {
-      "date": "Juillet et août 2020",
-      "elu": "Hélène PAUMIER",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2023/06/helene-paumier-2023.jpg",
-      "qualification": "La préparation de la rentrée 2020",
-      "titre": "Des services sur le pont",
-      "descriptif": "Nous sortons du premier confinement : les agents du service éducation sont épuisés mais ont fait bloc. Il va s'agir maintenant de préparer cette prochaine rentrée sans trop pouvoir préjuger de l'évolution de la pandémie. Pendant tout l'été les services seront disponibles et accueillants : je découvre le rôle d'adjointe dans des conditions pour le moins inédites !"
-    },
-    {
-      "date": "Eté 2020",
-      "elu": "Bastien BERNELA",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Bastien-Bernela.jpg",
-      "qualification": "Caserne",
-      "titre": "Construire ensemble un projet structurant",
-      "descriptif": "Dès les premières semaines de mandat, nous avons échangé avec le collectif d'acteurs qui avait porté un plaidoyer autour de la requalification de la Caserne Pont-Achard en tiers-lieu ESS. Nous décidons de nous lancer dans l'aventure de l'urbanisme transitoire : 18 mois d'exploitation temporaire d'une partie du lieu, avant d'engager une phase de travaux. Des heures de concertations nous ont permis de construire la programmation du projet Caserne, les travaux commencent, livraison en 2025 !"
-    },
-    {
-      "date": "2ème semestre 2020",
-      "elu": "Stéphane ALLOUCH",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4488.jpg",
-      "qualification": "un dialogue social rénové",
-      "titre": "les chantiers RH, une enveloppe financière annuelle",
-      "descriptif": "Pour que le dialogue social ne soit plus une opposition, mais plutôt un échange constructif, j'ai proposé que les 3 collectivités financent chaque année une enveloppe supplémentaire pour coconstruire avec les Organisations syndicales des actions sociales à destination des agents : harmonisation des régimes indemnitaires, tickets restaurants revalorisés, contribution employeur mutuelle et prévoyance, etc..."
-    },
-    
-    {
-      "date": "14 août 2020",
-      "elu": "Frankie ANGEBAULT",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Frankie-Angebault.jpg",
-"img":"https://poitierscollectif.fr/wp-content/uploads/2023/06/frankie-mariage.jpeg",
-      "qualification": "coup de coeur",
-      "titre": "premier mariage",
-      "descriptif": "gros stress pour officier mon premier mariage en ce début de mandat. J'avais contacté les futurs mariés en amont afin de préparer au mieux l'évènement. En fin de cérémonie, les deux époux sont venus vers moi pour me remercier et pour m'offrir quelques présents personalisés : ils savaient que c'était mon premier mariage. Un souvenir qui restera gravé :)"
-    },
-    {
-      "date": "28 août 2020",
-      "elu": "Pierre RIGOLLET",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
-
-      "qualification": "Sujet sensible",
-      "titre": "Arrêt des captures de pigeons",
-      "descriptif": "Début de mandat. Le service Hygiène Publique m'informe des difficultés à trouver des lieux de capture de pigeons. Après de nombreux échanges sur les options de régulation, nous abordons les moyens humains et financiers déployés par le passé : environ 2000€ pour tuer 300 pigeons en 2018 et pareil en 2019, soit presque 7€ par pigeon. Je mets un terme à la politique de capture et prépare une campagne de prévention avec panneaux sur sites. Le nourrissage, les déchets et les combles mal isolés sont le vrai fléau qui fait proliférer les pigeons."
-    },
-    {
-      "date": "Octobre 2020",
-      "elu": "Clémence POURROY",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
-
-      "qualification": "Vie républicaine",
-      "titre": "Porter une nouvelle vision de la laïcité",
-      "descriptif": "Un dialogue de sourds entre une ministre et des jeunes venus débattre de religions, le tout dans un climat délétère faisant suite à l'attentat contre Samuel Paty... Et si la laïcité permettait aussi d'ouvrir des espaces de dialogue autour de la manière dont les habitant.es vivent leurs convictions, quelles qu'elles soient ? Et si il fallait avant tout faire oeuvre de formation ? Avec la maire, nous entamons un travail pour prendre une délibération autour de la laïcité."
-    },
-    {
-      "date": "Décembre 2020",
-      "elu": "Léonore MONCOND'HUY",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Leonore-Moncondhuy.jpg",
-      "qualification": "Première centenaire",
-      "titre": "Mémoires de Poitiers",
-      "descriptif": "Il m'arrive d'être sollicitée pour souffler les bougies des centenaires poitevins. Parmi toutes les rencontres qu'offre un mandat, j'aime particulièrement échanger avec les ainés qui sont la mémoire d'un Poitiers d'avant : le tramway, les fermes et les champs où sont nés des quartiers dans les années 70, les guinguettes... Je me souviens de cette dame, en fauteuil, me disant sa fierté d'avoir été championne de valse lors d'un concours à Chauvigny. Ce Monsieur, dont les parents avaient une ferme, dans ce qui est aujourd'hui la Blaiserie. Ils ne sont pas nostalgiques... mais je le deviens souvent, à les écouter !"
-    },
-    {
-      "date": "Année 2020",
-      "elu": "Claude THIBAULT",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/06/IMG_4503.jpg",
-
-      "qualification": "\"Grand\" projet",
-      "titre": "Parc du triangle d'or",
-      "descriptif": "Dès nos premières rencontres avec les services, je demande à partager le budget prévu pour \"Blossac se ressource\" avec un nouveau projet hors centre ville: le parc du triangle d'or. Et c'est parti ! le 1° parc entièrement imaginé, travaillé et conçu avec les habitants. Les travaux commencent en septembre 2023 et Il sera inauguré avant l'été 2024."
-    },
-    {
-      "date": "Année 2020",
-      "elu": "Pierre RIGOLLET",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
-
-      "qualification": "Sauver EQUIPAIX",
-      "titre": "Sauver EQUIPAIX",
-      "descriptif": "L'association EQUIPAIX prend soin chaque année de nouveaux chevaux maltraités, abandonnés, ou retraités du poney club des bois de St Pierre et du centre équestre. La crise COVID a diminué fortement ses possibilités d'événements caritatifs, et elle nous alerte qu'elle risque de déposer le bilan. Nous passons à une subvention exceptionnelle de 5000€ et je rencontre l'élu sport à Grand Poitiers pour qu'il puisse créer une nouvelle subvention pérenne de 5000€. Il accepte !"
-    },
-    {
-      "date": "Année 2020",
-      "elu": "Zoé LORIOUX-CHEVALIER",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4406.jpg",
-      "qualification": "Découverte",
-      "titre": "Une nouvelle fonction, un rôle nouveau",
-      "descriptif": "Si être élue à 20ans est une opportunité sans pareil, la difficulté de trouver des personnes qui comme nous, vivent une vie de décalage avec les personnes de leur âge fut compliqué. Et si ce mandat est une découverte et un apprentissage permanent, la réalité d'être jeune, femme, aux responsabilités n'est pas des plus évidentes. Pourtant, la rencontre avec les services, soutien essentiel, ou avec le réseau des élues écologistes en charge des relations internationales n'en a été que plus salvateur."
-    },
-    {
-      "date": "Année 2020",
-      "elu": "Zoé LORIOUX-CHEVALIER",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4406.jpg",
-
-      "qualification": "Coup de coeur / plaisir",
-      "titre": "Premier mariage / premier baptême républicain",
-      "descriptif": "être élue, c'est aussi l'opportunité de représenter la République, en portant l'écharpe mais aussi, dans mon cas en disant des phrases cultes telles que \"Au nom de la loi, je vous déclare unis par le mariage\". Et quelle joie et quel honneur d'avoir pu le faire à de nombreuses reprises depuis le début de ce mandat. C'est le même plaisir que je retrouve lorsque je remets la déclaration des droits de l'enfant lors des baptêmes républicains."
-    },
-    {
-      "date": "De 2020 à 2022",
-      "elu": "Pierre RIGOLLET",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
-
-      "qualification": "Origine et Prise en main de ma fonction d'élu",
-      "titre": "2 ans de rodage",
-      "descriptif": "Mes 2 premières années de mandat furent tourbillonnantes et pleines d'ascenseurs émotionnels. N'ayant jamais été dans des études politiques ni encarté, je suis passé de militant idéaliste à élu local délégué à la Bientraitance Animale. La crise sanitaire, sociale, économique et écologique ont rendu l'exercice de ce mandat encore plus difficile, et 2 ans n'étaient pas de trop pour assimiler en urgence toute la complexité, les paradoxes et les nuances de cette fonction."
-    },
-    {
-      "date": "De 2020 à 2023",
-      "elu": "Zoé LORIOUX-CHEVALIER",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4406.jpg",
-
-      "qualification": "Vie étudiante ?",
-      "titre": "Elue et étudiante, c'est possible ?",
-      "descriptif": "Faire le choix d'une filière pour avoir le temps de me consacrer au mandat. Devoir par moment être moins présente dans mon mandat pour me consacrer aux études. Le statut d'étudiant.e élu.e n'existe pas, il a fallu, durant ces trois dernières années, tenter, tant bien que mal, d'équilibrer ces deux pans importants de ma vie de jeune femme. C'était épuisant, éreintant même, mais surtout tellement riche et formateur. Loin des soirées étudiantes, les soirées de représentations ou de travail faisaient partie de mon quotidien, les négociations avec les professeurs en début d'année également..."
-    },
-    {
-      "date": "De 2020 à 2023",
-      "elu": "Elisabeth NAVEAU DIOP",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Elisabeth-Naveau-Diop.jpg",
-      "qualification": "Mamam, élue, et création d'activité",
-      "titre": "Mamans à nous de jouer !",
-      "descriptif": "A la veille du 1er tour, j'accouchais de mon 3eme enfant. Pas toujours facile de mener de front : maman, élue, activité professionnelle, et la préservation de son couple. Je me suis souvent sentie en décalage, et parfois exclue du fait de mon quotidien. Mes enfants peuvent être mes faiblesses : manque de sommeil, etc., mais ils sont surtout ma force pour porter une autre vision du monde et me contraignent agréablement à m'extraire à juste dose du monde politique frénétique!"
-    },
-    {
-      "date": "2020 à 2023",
-      "elu": "Maxime PEDEBOSCQ",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Maxime-Pedebosq.jpg",
-
-      "qualification": "Vie personnelle",
-      "titre": "Les études, le grand oublié de l'engagement",
-      "descriptif": "Dur d'être étudiant dans la vie publique française ! A notre arrivée aux responsabilités, tous les collègues ont réfléchi aux aménagements de temps possible avec leurs divers employeurs, pour pouvoir effectuer leur mandat au mieux. Cependant, le statut permettant aux élus d'obtenir cela n'existe pas pour les étudiants, l'engagement des jeunes étant l'impensée de nos vies politiques. Face à ces réalités, j'ai du prendre une année de césure, mettre en pause mes études pendant un an, pour pouvoir aborder mon mandat de vice président au sport de Grand Poitiers. Dur"
-    },
-    {
-      "date": "Année 2021",
-      "elu": "Julie REYNARD",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Julie-Reynard.jpg",
-
-      "qualification": "Participation à la Préfig ACP",
-      "titre": "ça fait du bien !",
-      "descriptif": "J'étais élue volontaire pour participer à la préfiguration de l'Assemblée Citoyenne et Populaire. Le groupe de préfiguration était constituée d'habitant.es, de services et d'élu.es. En arrivant sur la première journée, personne n'a présenté sa \"casquette\" et tout le monde travaillait ensemble. Le travail avec les services et les habitants était fort, la co-construction était en marche. Les 3 week-ends ont fait un bien fou pour aboutir à un dispositif de participation innovant et unique en France (Pas assez mis en avant à mon avis), je retrouvais à ces moments-là pourquoi je me suis impliquée dans Poitiers Collectif : faire de la politque autrement !\r\n"
-    },
-    {
-      "date": "Année 2021",
-      "elu": "Pierre RIGOLLET",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
-
-      "qualification": "Interdiction de la chasse aux Bois de St Pierre",
-      "titre": "Interdiction de la chasse aux Bois de St Pierre",
-      "descriptif": "Une des 1ères actions fortes de mon mandat : l'interdiction de la chasse et du droit de poursuite aux Bois de St Pierre. Elles étaient auparavant pratiquées, croisant parfois des enfants à 4 pattes ou dans leurs poussettes, des promeneurs et promeuneuses du dimanche venus ici pour faire un bain de nature et de sérénité. Les nombreux coups de feu choquaient assurément les visiteurs et les animaux du parc animalier coincés dans leurs enclos."
-    },
-    {
-      "date": "Année 2021",
-      "elu": "Pierre RIGOLLET",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
-
-      "qualification": "Conférence et Ateliers d'éducation canine",
-      "titre": "Conférence et Ateliers d'éducation canine",
-      "descriptif": "Comme moi, beaucoup de gens ont peur des gros chiens qu'ils ne connaissent pas, parfois même des petits ! Le meilleur antidote, c'est la connaissance et la pratique accompagnée. J'avais à coeur de mettre en place tout cela, et nous avons enfin réussi notre 1ère conférence suivie d'ateliers pratiques avec les chiens et leurs propriétaires. Nous avons trouvé Margot FORTIN, une éthologue spécialiste des chiens et d'éducation positive. Objectif final : en faire dans chaque quartier de Poitiers et au caniparc de St Eloi."
-    },
-    {
-      "date": "Année 2021",
-      "elu": "Julie FONTAINE",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Julie-Fontaine.jpg",
-      "img":"https://poitierscollectif.fr/wp-content/uploads/2023/06/julie-fontaine-interview.jpg",
-      "qualification": "Première grève",
-      "titre": "Au coeur de la révolte",
-      "descriptif": "Fin d'année 2021, les animateurs et animatrices périscolaires de Poitiers se mettent en grève, je décide d'aller à leur rencontre devant le Carré Bleu. Un moment très fort en échanges, je me montre à l'écoute, je comprends davantage les difficultés et on me partage des récits du quotidien au sein des accueils périscolaire. Ma présence est bien reçue, l'échange est dur mais constructif. Va en découler ensuite plusieurs mois de travail, d'échanges avec les responsables périscolaires, la direction éducation et périscolaire et la direction RH, pour aboutir à notre notre plan d'appui et de revalorisation des professionnel.le.s."
-    },
-    {
-      "date": "Année 2021",
-      "elu": "Elisabeth NAVEAU DIOP",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Elisabeth-Naveau-Diop.jpg",
-
-      "qualification": "Acculturation",
-      "titre": "Déconstruisons les préjugés !",
-      "descriptif": "Tout le monde semblait tout savoir sur Ekidom .Ekidom ceci, Ekidom cela! J'ai tenu à prendre mon temps pour bien comprendre la structure et le monde du logement social : ses véritables enjeux. L'écart était un gouffre entre ce que j'ai pu entendre et ce qui se passe réellement. Majoritairement, des hommes et des femmes qui ont une forte vocation sociale et font leur maximum pour porter le logement social malgré tous les obstacles : politiques nationales en berne et les multiples difficultés sociétales !"
-    },
-    {
-      "date": "Année 2021",
-      "elu": "Elisabeth NAVEAU DIOP",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Elisabeth-Naveau-Diop.jpg",
-
-      "qualification": "Débattre, échanger, construire",
-      "titre": "Symbioses ou Moments de Grâce",
-      "descriptif": "Prendre ses fonctions dans un climat national méfiant vis à vis du politique est un vrai défi ! L'interconnaissance, le débat, les prises de conscience des réalités de chacun, et la co-construction sont d'autant d'ingrédients de l'éducation populaire qui nous sont chers. Ils permettent de créer un nouveau climat de confiance et d'avancer collectivement. Quand les différents services vous proposent spontanément des actions s'inscrivant dans cette démarche, et notre projet politique, je me dis que le pari est réussi !"
-    },
-    {
-      "date": "De 2021 à 2023",
-      "elu": "Pierre RIGOLLET",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
-
-      "qualification": "vie publique - vie privée",
-      "titre": "24h/24 ? 7j/7 ?",
-      "descriptif": "On m'avait prévenu qu'être un élu local pouvait parfois s'apparenter à un sacerdoce, entraînant des sollicitations et des jugements de toutes parts, parfois virulents, à n'importe quelle heure et n'importe où. Je confirme. Dès que l'on me reconnait, que l'on apprend ma fonction, les gens se métamorphosent souvent. Des inconnu-es, des connaissances ou des proches vident leurs sacs : \"Oui bah c'est n'importe quoi le prix des parkings, vous êtes en train de tuer les commerces !\" ; \"Tu es devenu quelqu'un d'important maintenant !\" ; \"On est envahis par les pigeons ! Qu'est-ce que vous attendez pour réagir ?\" ; \"Tu pourrais voir avec la maire pour me trouver une salle ?\"..."
-    },
-    {
-      "date": "Janvier 2021",
-      "elu": "Aloïs GABORIT",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4486.jpg",
-      "qualification": "L'extinction de l'éclairage public",
-      "titre": "Agir vite et rattraper les erreurs",
-      "descriptif": "Fin 2020, nous voulons agir vite pour profiter du couvre-feu et expérimenter l'exctinction de l'éclairage public la nuit. Probablement trop vite puisque nous manquons des étapes nécessaires que nous essayons de rattraper ensuite en recontrant les acteurs des quartiers, les associations et les forces de l'ordre. S'en suivent une série de réunions publiques parfois houleuses, parfois tendues mais toujours avec cette volonté de défendre une mesure nécessaire et de réfléchir à sa mise en oeuvre avec les habitants."
-    },
-    {
-      "date": "28 janvier 2021",
-      "elu": "Clémence POURROY",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
-
-      "qualification": "Construction collective de la politique culturelle",
-      "titre": "Lancement de Culture commune !",
-      "descriptif": "\"Faire avec et pas à la place de\" pourrait être notre slogan. C'est pourquoi, avec Charles Reverchon-Billot, adjoint aux espaces publics et délégué au droit culturel, nous avons souhaité réunir les acteurs de la culture, dans un contexte inédit... Après plusieurs mois de confinement, le monde de la culture, ces amateurs et professionnels amoureux du lien et de la rencontre étaient durement touchés. Cette rencontre en visio, a été un merveilleux moment d'échanges, une soupape essentielle !"
-    },
-    {
-      "date": "Avril et mai 2021",
-      "elu": "Hélène PAUMIER",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2023/06/helene-paumier-2023.jpg",
-      "img":"https://poitierscollectif.fr/wp-content/uploads/2023/06/20230623_183855.jpg",
-      "qualification": "Démarche consultative pour le PEG",
-      "titre": "Parler ensemble de l'éducation",
-      "descriptif": "Pour écrire le Programme Educatif Global, nous avons adopté la consultation, premier degré de la partipation citoyenne. Ainsi plus de 1000 enfants ont pu faire remonter, sur le temps périscolaire, leurs regards et leur avis sur l'Education Nature ou la Participation citoyenne !"
-    },
-    {
-      "date": "26 mai 2021",
-      "elu": "Clémence POURROY",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
-
-      "qualification": "Rencontre marquante",
-      "titre": "Le Palais à hauteur d'enfants",
-      "descriptif": "Dans le cadre de la requalification du Palais des ducs d'Aquitaine, nous menons des \"préfigurations\". Imaginer ce que pourrait être le Palais demain : qui de mieux placés que des enfants pour le faire ? Une tyrolienne accrochée à la charpente, un quartier vert, qui permette à toutes et tous de se déplacer facilement, solidaire ... J'étais très heureuse d'échanger sur ces projets parfois très ambitieux avec ces enfants engagé.es, et ils pouvaient être fier.es de leur travail collectif !"
-    },
-    {
-      "elu": "Alexandra BESNARD",
-      "qualification": "des ronds dans des carrés",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4415.jpg",
-      "titre": "24/24",
-      "descriptif": "Mais comment je vais réussir concilier travail/mairie/enfant ?! Savant jonglage entre équilibre temps pro/mairie, dépassement régulier et heures supp au boulot... ami.es et babysitteuse qui dépanennt pour garder l'enfant, participation aux réunions du dit enfant ( qui apprécie plus les fêtes de quartier que les AG étrangement :). Bref, un jonglage de toutes les semaines qui demandent une sacrée organisation et surtout une sacrée solidarité, alors merci aux ami.es qui soutiennent mon organisation parfois sportive et de ce fait contribuent à ce que je puisse exercer mon mandat ! "
-    },
-    {
-      "date": "2 juillet 2021",
-      "elu": "Charles REVERCHON-BILLOT",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4450.jpg",
-
-      "qualification": "Grand projet",
-      "titre": "Choix de l'équipe de maitrise d'oeuvre du Palais",
-      "descriptif": "Après de longs mois de dialogue compétitif, l'Atelier Novembre était enfin choisi pour piloter le projet du quartier du Palais. Un choix décisif qui nous accompagnera jusqu'en 2030 avec la réhabilitation du Palais des Ducs d'Aquitaine et des Comtes du poitou mais également son quartier."
-    },
-    {
-      "date": "21 août 2021",
-      "elu": "Pierre RIGOLLET",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
-
-      "qualification": "Ma 1ère célébration de mariage",
-      "titre": "1er mariage = LGBTI+",
-      "descriptif": "Mon premier mariage fut exceptionnel : c'était celui d'une très bonne amie qui m'avait demandé de célébrer son mariage, et je connaissais déjà bien sa future femme. Mme la maire était également présente pour célébrer leur mariage, en français et en italien - l'une des mariées étant italienne de naissance."
-    },
-    {
-      "date": "Septembre 2021",
-      "elu": "Zoé LORIOUX-CHEVALIER",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4406.jpg",
-
-      "qualification": "Fierté / reconnaissance !",
-      "titre": "Première représentation internationale, premier départ.",
-      "descriptif": "J'ai la chance, dans le cadre de ma délégation de représenter la Ville de Poitiers chez nos partenaires internationaux. Le premier déplacement à Marbourg pour rencontrer nos homologues, et accompagner les premières équipes du défi jeunes a été une étape dans mon mandat. La découverte du protocole, la signature des registres, mais surtout, la prise de conscience de l'action internationale permettait à des jeunes de partir. Depuis, ils sont bientôt une centaine a avoir pu profiter de cette expérience !"
-    },
-    {
-      "date": "Septembre 2021",
-      "elu": "Léonore MONCOND'HUY",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Leonore-Moncondhuy.jpg",
-      "qualification": "Enfants",
-      "titre": "Les questions que tout le monde se pose ?",
-      "descriptif": "J'aime beaucoup aller dans les écoles de Poitiers, où je suis souvent invitée pour échanger avec les élèves. Après 3 ans de mandat, le top 3 incontesté de leurs questions est 1) Roulez-vous en Ferrari ? 2) Avez-vous des gardes du corps ? 3) Avez-vous déjà vu Emmanuel Macron ? En somme : faire évoluer l'image de Maire est encore un défi ! Et, si vous aussi vous posez ces questions : je ne réponds oui qu'à l'une d'entre elles :)"
-    },
-    {
-      "date": "22 septembre 2021",
-      "elu": "Clémence POURROY",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
-
-      "qualification": "Construction collective de la politique culturelle",
-      "titre": "Retrouvailles apéritives autour de Culture commune",
-      "descriptif": "Cette fois, c'est \"irl\", dans la vraie vie, et après les échanges, on trinque ! Les retrouvailles des acteurs du monde de la culture dans le cadre du dispositif Culture commune, dans le cadre convivial du Confort moderne, est un grand souvenir. Je mesure ma chance de rencontrer autant de personnes diverses et inspirantes. Par la suite, nous nous retrouverons souvent autour de cafés ou d'apéros, toujours avec un immense plaisir et autour de sujets concrets comme la répartition des subventions."
-    },
-    {
-      "date": "1er octobre 2021",
-      "elu": "Julie REYNARD",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Julie-Reynard.jpg",
-
-      "qualification": "Première concertation",
-      "titre": "concertation terrasses",
-      "descriptif": "LA première concertation avec les commerçants à la Poitiers Collectif avec Théo Saget : on a sorti la totale : les post it, les temps de discussion, le groupe de travail pour des réunions intermédiaires, etc. \r\nEt tout a magnifiquement marché, même si j'avais quelques doutes, ils ont embarqué directement pour aboutir à une solution que je n'aurais pas pu imaginer"
-    },
-    {
-      "date": "Décembre 2021",
-      "elu": "Hélène PAUMIER",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2023/06/helene-paumier-2023.jpg",
-      "qualification": "La Cité Educative",
-      "titre": "Décider et agir dans l'urgence",
-      "descriptif": "Nous savons qu'à ce moment, c'est la dernière vague de labellisation \"Cité Educative\" : un dispositif d'accompagnement fort du point de vue financier de la part de l'Etat auprès des Quartiers Politiques de la ville. Même si l'Etat finance largement, la collectivité doit aussi participer. C'est un pari : nous (Madame la Maire, moi, Alexandra duval, les services Education et Politique de la Ville) actons que nous déposons un dossier de candidature pour le quartier des Couronneries. C'est un énorme travail pour les services : le dossier est complexe et long à monter. Pourtant, il leur faudra 15 jours à peine pour rassembler tous les éléments, les analyser, les mettre en ordre. En février 2022, un samedi après-midi, j'apprends via twitter (c'est vrai !) que nous avons obtenu le label (soit 350 000 euros multiplié par trois !). Aujourd'hui, je ne regrette rien de cette décision prise un peu en retenant notre respirantion : de très belles actions de soutien aux jeunes de 0 à 25 ans, et à leur famille, se déploient sur le quartier des Couronneries ! Nous n'avons pas mis les équipes à l'épreuve pour rien !"
-    },
-    {
-      "date": "30 novembre 2021",
-      "elu": "Julie FONTAINE",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Julie-Fontaine.jpg",
-
-      "qualification": "Première ITW France 3",
-      "titre": "123 Coupez !",
-      "descriptif": "Le 30 novembre 2021, suite à la série de grèves des professionel.le.s du périscolaire, France 3 me sollicite pour une interview télé au sein de l'école Saint Exupéry et Coligny Cornet. 1er passage à la télé de ma vie, j'étais plutôt stressé, je me suis préparée pendant 2h... On a filmé plusieurs plans pendant au moins 40 minutes, il m'a fallu très peu de prises pour bien faire passer les messages les plus importants. Pas évident mais j'étais plutôt contente et le sentiment d'avoir tenu un discours juste et engagé. Le lendemain, l'itw passe, tout ce stress pour un passage de 15 secondes, avec la seule phrase, vide de sens et où j'eccorche deux mots...GENIAL !"
-    },
-    {
-      "date": "2022 et 2023",
-      "elu": "Laurence DAURY REIG",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/06/IMG_8609.jpg",
-
-      "qualification": "Apprendre, Comprendre, Agir",
-      "titre": "Considération des plus âgé.es",
-      "descriptif": "Après avoir intégrer la notion du \"temps municipal\", c.à.d le temps nécessaire pour concrétiser un projet, la satisfaction d'améliorer le quotidien. Pouvoir agir, avec et pour les plus âgé.es, afin d'ouvrir de nouveaux espaces des possibles. Liens intergénérationnels, Ville amie des Aîné.es, favoriser l'inclusion sous toutes ses formes."
-    },
-    {
-      "date": "A partir de 2022",
-      "elu": "Chantal NOCQUET",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Chantal-Nocquet.jpg",
-
-      "qualification": "la charte 0 déchet",
-      "titre": "Enfin dans la peau d'une élue",
-      "descriptif": "Etre dans la minorité de la majorité ou être dans la majorité de la majorité, autre exercice, exercice qui appelle plus de erseponsabilité mais aussi plus enthousiasmant. La charte est enfin lancée. Mon entrée dans GP me rend finalement \"plus légitime\". La participation à l'élaboration du plan déchets m'enthousiasme. Double impression d'avoir trouvé sa place mais culpabilité de ne jamais en faire assez."
-    },
-    {
-      "date": "Année 2022",
-      "elu": "Alexandra BESNARD",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4415.jpg",
-
-      "qualification": "Co-construction",
-      "descriptif": "AAAAh le Plan Numérique Responsable ! Il nous aura quelques nuits blanches à Ombelyne et moi même ! Une démarche innovante pour coconstruire le 1er plan numérique responsable pour la ville; exigeante du point de vue de la méthode, accompagnée par la Commission nationale du débat Public, pas facile de répondre à leurs attentes, on aura navigué mais pour finalement arriver à un bilan de leur part très positif et qui valide bien la qualité et la sincérité de la démarche !"
-    },
-    {
-      "date": "Année 2022",
-      "elu": "Alexandra BESNARD",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4415.jpg",
-
-      "qualification": "CPO",
-      "descriptif": "Être adjointe aux maisons de quartier c'est travailler avec des associations engagées et passionnantes ! C'est passer 8 samedis à travailler à nos CPO, échanger, ne pas être d'accord, s'interroger, accepter de changer de regard, convaincre et se laisser convaincre pour créer du consensus. C'est aussi défendre notre \" modèle poitevin\" auprès d'autres villes en valorisant la confiance, la transparence et la co-construction dans la relation partenariale. C'est faire de la politique autrement !"
-    },
-    {
-      "date": "Février 2022",
-      "elu": "Julie REYNARD",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Julie-Reynard.jpg",
-
-      "qualification": "Borne rue de Mexico",
-      "titre": "Au forceps",
-      "descriptif": "LA mise en place de la borne rue de Mexico pour la pietonnisation de la place Notre Dame est une des actions dont je suis le plus fière. PAs tant pour la mise en service de la borne en elle-même mais bien pour le bras de fer que j'ai remporté avec les services en début de mandat. On savait que c'était faisable et souhaitable, mais il a fallu beaucoup de réunions et de validations pour aboutir à ce résultat. Tout y est passé : c'est cher, c'est compliqué, il faut la mettre devant les commerçants, bref, ce n'est pas possible ! \r\nAujourd'hui quand je prends un café le samedi matin sur la place, je me dis que ça au moins, c'est réussi !"
-    },
-    {
-      "date": "Août 2021 et Mars 2022",
-      "elu": "Vincent GATEL",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4437.jpg",
-
-      "qualification": "Accueil de réfugiés afghans et ukrainiens",
-      "titre": "Sur le pont !",
-      "descriptif": "En charge de la politique municipale d'hospitalité, je ne pensais pas me retrouver en situation de répondre présent à l'urgence d'acceuillir des personnes devant fuir leur pays lors de deux crises internationales majeures aussi rapprochées."
-    },
-    {
-      "date": "1er mai 2022",
-      "elu": "Bastien BERNELA",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Bastien-Bernela.jpg",
-
-      "qualification": "TZCLD",
-      "titre": "Projet TZCLD déposé !",
-      "descriptif": "A notre arrivée 2020, besoin de s'approprier ce sujet complexe : des acteurs sont au travail depuis déjà 2 ans pour se lancer dans l'expérimentation TZCLD ! CLE, EBE, CDE, exhaustivité, supplémentarité : un vrai vocabulaire à part. Après des mois de travail, on se sent légitimes et armés pour donner un coup d'accélérateur au projet. C'est avec une émotion certaine que nous déposons symboliquement la candidature de la Ville de Poitiers dans les locaux de Chilvert !"
-    },
-    {
-      "date": "Mai 2022",
-      "elu": "Léonore MONCOND'HUY",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Leonore-Moncondhuy.jpg",
-      "qualification": "Education Populaire",
-      "titre": "Poitiers, Capitale de l'éduc'pop ?",
-      "descriptif": "Dans l'équipe municipale, nous sommes nombreux à être issus de l'éducation populaire, dont les pratiques nourrissent au quotidien notre projet. Je suis très fière qu'avec les Rencontres Nationale de l'Education Populaire, nous ayons réussi à faire de Poitiers une ville qui fédère tous les acteurs du secteur : associations, mais aussi élus et techniciens. Plus de 400 participants réunis pour se retrouver, porter des plaidoyers communs, et se former pour mieux se connaître et préparer l'avenir ensemble. Prochaine édition en 2024 !"
-    },
-    {
-      "date": "31 mai 2022",
-      "elu": "Frankie ANGEBAULT",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Frankie-Angebault.jpg",
-"img":"https://poitierscollectif.fr/wp-content/uploads/2023/06/frankie-parade.jpeg",
-      "qualification": "Coup de coeur",
-      "titre": "Velo parade",
-      "descriptif": "en cloture de la session de Mai à Vélo 2022, quel plaisir de particpr à la vélo parade organisée par les associations cyclistes locales avec une centaine de cyclistes :) La culture vélo se développe à Poitiers et nous mettons tout en oeuvre pour diffuser cette culture localement"
-    },
-    {
-      "date": "Eté 2022",
-      "elu": "Clémence POURROY",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
-
-      "qualification": "Animation de la ville",
-      "titre": "Aliénor à l'honneur",
-      "descriptif": "Pour une néo-poitevine comme moi, redécouvrir la figure d'Aliénor, cette double reine qui a durablement marqué la ville, a été un grand plaisir ! J'ai dévoré toutes les bibliogrraphies, des plus scientifiques aux plus romancées. Et dans le cadre du projet du Palais des ducs d'Aquitaine, nous avons programmé une \"saison Aliénor\" à l'occasion des 900 ans de sa naissance... Des propositions tournées vers tous les publics, pour faire découvrir cette figure inspirante au plus grand nombre !"
-    },
-    {
-      "date": "23 septembre 2022",
-      "elu": "Pierre RIGOLLET",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
-      "qualification": "Signature charte ETICA : bien-être animal dans la restauration collective",
-      "titre": "1ère ville \"ETICA\"",
-      "descriptif": "Voté en juin 2022 et porté par ma collègue Elodie BONNAFOUS, Poitiers devient la première ville à signer la charte ETICA - association WELFARM - dont le but est d’accompagner les acteurs de la restauration collective (1 million de repas /an à Poitiers), afin d’orienter leurs approvisionnements vers des produits plus respectueux du bien-être des animaux. Moins de viande, des aliments de meilleure qualité, des oeufs et des bovins d'élevages en plein air uniquement, aucun produit animal issu de gavage."
-    },
-    {
-      "date": "Octobre 2022",
-      "elu": "Alexandra DUVAL",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Image-d%E2%80%99iOS.jpg",
-
-      "qualification": "Egalité !",
-      "titre": "Création du réseau Egalité ! à Poitiers",
-      "descriptif": "Le rôle de la collectivité est entre autre d'assurer un cadre de coopération pour les associations du territoire. Concernant les associations de lutte pour les droits des femmes et contre les violences, elles ont rapidement évoqué le besoin d'avoir un soutien de la collectivité pour la création d'un réseau. En novembre 2022, nous avons ensemble lancé la Quinzaine de mobilisation Poitevine contre les violene. En mars 2023 nous avons crée ensemble le mois de l'Egalité. Quelle fierté et quelle sororité !"
-    },
-    {
-      "date": "18 octobre 2022",
-      "elu": "Frankie ANGEBAULT",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Frankie-Angebault.jpg",
-"img":"https://poitierscollectif.fr/wp-content/uploads/2023/06/frankie-pony.jpeg",
-      "qualification": "coup de coeur",
-      "titre": "je peux pas j'ai Pony",
-      "descriptif": "le jour du lancement de la flotte Pony sur Poitiers, je me souviens des groupes de jeunes poitevins et poitevines se masser devant les vélos et trottinettes nouvellement installées, des etoiles plein les yeux."
-    },
-    {
-      "date": "1er janvier 2023",
-      "elu": "Pierre RIGOLLET",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
-
-      "qualification": "Formons-nous !",
-      "titre": "Formations des élus et élues",
-      "descriptif": "Prise de parole en public ; Faire face aux agressions physiques et verbales ; Repérer et lutter contre le harcèlement moral, sexiste et sexuel ; Comprendre les budgets d'une collectivité ; Evaluation des politiques publiques... Ce sont quelques exemples des formations auxquelles j'ai pu participer au cours de mes premières années de mandat. Grâce à elles, je me sens mieux outillé et compétent sur des enjeux essentiels. Grand merci à notre majorité qui facilite la montée en compétence des élus et élues !"
-    },
-    {
-      "date": "Janvier 2023",
-      "elu": "Aloïs GABORIT",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4486.jpg",
-
-      "qualification": "L'urbanisme",
-      "titre": "Découvrir et s'approprier des sujets complexes",
-      "descriptif": "Depuis quelques mois je découvre la complexité et les rouages de l'urbanisme. Je commence à comprendre tous les acronymes contenus dans un PLUi et me plonge dans les différents documents avec enthousiasme afin de répondre aux habitants et aux promoteurs immobiliers. Je prends mes nouvelles fonctions avec humilité et responsabilité : les décisions que nous prenons vont avoir un impact pour des décennies et peuvent modifier durablement un quartier ou une ville. C'est parfois vertigineux !"
-    },
-    {
-      "date": "23 avril 2023",
-      "elu": "Maxime PEDEBOSCQ",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Maxime-Pedebosq.jpg",
-      "qualification": "inauguration",
-      "titre": "Club House Jean Luc Gaboreau, l'engagement dans nos quartiers",
-      "descriptif": "La demande du club de l'ES 3 cités d'avoir un club house datait de plus de 12 ans. Nous l'avons mis en place. L'inauguration à eu lieu devant les équipes féminines du club, et un grands nombres d'enfants du quartier. Un moment de fierté pour moi, d'avoir une action qui va tant changer la vie du club, et du quartier, pour mettre en place un vrai espace de convivialité pour les jeunes des 3 cités."
-    },
-    {
-      "date": "Mai 2023",
-      "elu": "Aloïs GABORIT",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4486.jpg",
-
-      "qualification": "Le réseau de chaleur urbain",
-      "titre": "Choisir le futur gestionnaire du nouveau réseau de chaleur",
-      "descriptif": "Depuis le début du mandat nous vantons les mérites du réseau de chaleur des Couronneries et nous savons que nous créerons celui de Bel-Air. Il a donc fallu choisir l'entreprise qui allait investir plus de 20 millions d'euros sur le territoire, pour créer un réseau de chaleur qui alimentera des milliers de foyers. Nous avons deux offres de très grande qualité et je ressens là toute la pression d'un choix qui engage la collectivité sur plus de 20 ans. Cela m'a coûté quelques nuits agitées !"
-    },
-    {
-      "date": "Juin 2023",
-      "elu": "Clémence POURROY",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
-
-      "qualification": "Transformer la ville",
-      "titre": "Au chevet de Notre-Dame",
-      "descriptif": "Mon grand-père est décédé quelques semaines après mon emménagement à Poitiers. Dans son héritage, j'ai reçu un livre magnifique sur l'art roman, dont la couverture représente Notre-Dame de Poitiers. Quelle émotion de participer humblement à la rénovation de cet édifice millénaire. En juin 2023, après plusieurs années de travail, nous recevons une dotation de 250 000 € de la fondation du patrimoine, et recrutons l'architecte qui mènera les travaux. C'est un projet collectif enthousiasmant !"
-    },
-    {
-      "date": "2 et 3 juin 2023",
-      "elu": "Maxime PEDEBOSCQ",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/Maxime-Pedebosq.jpg",
-
-      "qualification": "évènement sportif",
-      "titre": "Sports S'HANDI'SOCIATION, le sport, confronté à la température!",
-      "descriptif": "Cet évènement devait prendre place le 14 juin 2022, sur 4 équipements sportifs et regroupé plus d'une vingtaine de clubs, pour proposer aux scolaires et aux personnes en situation de handicap. La veille au soir, cette évènement a été interdit, du à la canicule, alors que 500 scolaires devaient être présent. Cela a été très marquant pour les organisateurs comme pour moi, qui était très investi sur le projet. Heureusement, nous avons pu le mettre en place en 2023 lors de la semaine des accessifs!"
-    },
-    {
-      "date": "En cours",
-      "elu": "Vincent GATEL",
-      "imgelu":"https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4437.jpg",
-      "qualification": "Politique d'hospitalité",
-      "titre": "Satisfaction",
-      "descriptif": "Satisfaction que la culture de l'hospitalité se diffuse dans les trois collectivités grâce à l'appui des élu.e.s et la mobilisation des services concernés : élargissement des aides du CCAS aux familles sans papiers, rénovation de logements muncipaux mis à disposition de ces familles, relations aux promoteurs immobiliers pour le developpement de l'habitat intercalaire."
-    }
-  ]
-
-
-  
-  
+  {
+    "date": "28 juin 2020",
+    "elu": "Frankie ANGEBAULT",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Frankie-Angebault.jpg",
+    "img": "https://poitierscollectif.fr/wp-content/uploads/2023/06/frankie-election.jpeg",
+    "qualification": "Mes premières émotions",
+    "titre": "Dépouillement",
+    "descriptif": "Je me souviens du soir de l'élection. Pendant que le dépouillement se déroule, je reçois des messages annonçant la victoire de Poitiers Collectif. Les larmes de joie me sont montées aux yeux. Certains me demandaient si j'avais des infos : je m'entends encore leur répondre \"Non Non\" . Heureusement le port du masque en vigueur à l'époque m'a permis de garder une image de neutralité en ce moment très fort en émotion."
+  },
+  {
+    "date": "28 juin 2020",
+    "elu": "Claude THIBAULT",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/06/IMG_4503.jpg",
+    "qualification": "Elections",
+    "titre": "Explosion d'émotions",
+    "descriptif": "Avant même la fin du dépouillement, Alain Claeys se déclare vaincu. Joie dans les bureaux de vote, Place Charles VII, dans la rue. Arrivée euphorique à la Mairie. On ne sait pas ce qui nous attend, on est heureux !"
+  },
+  {
+    "date": "29 juin 2020",
+    "elu": "Charles REVERCHON-BILLOT",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2023/07/charles-960-960.jpg",
+    "img": "https://poitierscollectif.fr/wp-content/uploads/2020/06/106151086_3867235106680571_3209431458215790160_n.jpg",
+    "qualification": "Ma première impression",
+    "titre": "Le tourbillon médiatique !",
+    "descriptif": "Dès le lendemain de l'élection, j'ai été très surpris du tourbillon médiatique qui nous est tombé dessus ! A peine raccroché avec un·e journaliste, que le téléphone sonnait. M6, France 2, RTL, Libération, LCI, toute la presse nationale voulait son interview de la nouvelle Maire élue la veille !"
+  },
+  {
+    "date": "29 juin 2020",
+    "elu": "Clémence POURROY",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
+    "qualification": "Nouveauté",
+    "titre": "Elu.es, et maintenant ? ",
+    "descriptif": "Hier, 28 juin, nous avons fêté la victoire, mais surtout cet élan collectif qui nous a portés pendant la campagne. Aujourd'hui, je réalise. Je suis élue. Placée en 37e position sur la liste, ce n'était pas tout à fait prévu pour moi. Avec un travail à Paris et deux jeunes enfants à la maison, je n'étais pas sûre de pouvoir m'engager à plein temps dans un mandat municipal. Qu'à cela ne tienne, allons-y ensemble ! C'est ça, le collectif."
+  },
+  {
+    "date": "De juin 2020 à fin 2021",
+    "elu": "Chantal NOCQUET",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Chantal-Nocquet.jpg",
+    "qualification": "un début de mandat chaotique",
+    "titre": "rentrer dans la peau d'un.e élu.e",
+    "descriptif": "Je n'ai pas à jongler avec l'activité professionnelle. Difficulté d'entrer dans un mandat imprévu. Comment concilier vie d'élue et vie privée?. Extrême violence de la période COVID quand on ne se trouve pas \"du bon côté\": sentiment d'exclusion, dichotomie entre le souvenir d'une campagne municipale exaltante et la réalité du moment. \r\nAvantage de connaître le système : militantisme politique + expérience d'un premier mandat.\r\nExcellent souvenir de mon premier mariage pour moi qui avait plutôt des réticences avec cette \"norme\""
+  },
+  {
+    "date": "De juin 2020 à fin 2021",
+    "elu": "Laurence DAURY REIG",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/06/IMG_8609.jpg",
+    "qualification": "Premières émotions",
+    "titre": "La joie et l'angoisse",
+    "descriptif": "Je me souviens des premiers heures, jours, mois du mandat. Les larmes de joie, l'excitation, la gravité. L'angoisse aussi, du premier discours aucunement anticipé !"
+  },
+  {
+    "date": "Juin et juillet 2020",
+    "elu": "Alexandra DUVAL",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Image-d%E2%80%99iOS.jpg",
+    "img": "https://poitierscollectif.fr/wp-content/uploads/2020/07/Florence-L%C3%A9onore.jpeg",
+    "qualification": "Fierté militante !",
+    "titre": "Femmes au pouvoir !",
+    "descriptif": "L'élection de Léonore Moncond'huy en tant que maire(sse) de Poitiers et celle de Florence Jardin en tant que présidente de Grand Poitiers. \r\nDeux femmes à la tête des collectivités. Ni une anomalie, ni une exception. Un ancrage, une réappropriation et une lutte contre le pouvoir patriarcal.\r\nComme l'a dit la présidente lors de son éléction, le territoire est sous le signe de l'audace et la bienveillance. Désormais il faut y ajouter \"femmes, pionnières et solidaires !\""
+  },
+  {
+    "date": "juillet 2020",
+    "elu": "Samira BARRO-KONATE",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4426.jpg",
+    "qualification": "Les premières pierres de Vacances pour toutes et tous",
+    "titre": "Vent de panique",
+    "descriptif": "Je ne mesurais pas ce que représentait un mandat politique. Je voyais en ça une nouvelle expérience humaine en accord avec mes valeurs et mes idéaux. Je me suis sentie très chanceuse lorsque j'ai su que je porterais la délégation Vacances pour toutes et tous. Et il a fallu aller vite... très vite! Une façon très intense de rentrer dans un mandat politique. Apprendre comment fonctionne une collectivité, stresser, devoir comprendre les modèles de subvention, stresser, trouver des partenaires, stresser, ne pas trouver d'autres modèles existants et surtout avoir peur que cela ne fonctionne pas. Pourtant, grâce à un travail conséquent, du soutien et probablement un alignement des planètes, vinrent les premières propositions, les inscriptions et les premiers départs. Et c'est ainsi que nous avons posé les premières pierres de cette belle politique. Ce fût intense, fatigant mais tellement satisfaisant!"
+  },
+  {
+    "date": "2 juillet 2020",
+    "elu": "Clémence POURROY",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
+    "qualification": "Nouveauté",
+    "titre": "Choisir un sujet, et pour 6 ans !",
+    "descriptif": "Après plusieurs jours d'attente, le téléphone sonne. Le collectif qui s'est réuni pour répartir les charges en respectant à la fois nos voeux exprimés à l'avance et des ratios de représentativité (bon courage à eux !) passe les coups de téléphone. C'est Stéphane qui m'appelle : \"patrimoine historique, ça t'irait ?\" Je demande 1 heure de réflexion. Et le rappelle 5 minutes plus tard : c'est d'accord ! Quel sujet passionnant pour une ville deux fois millénaire comme Poitiers !"
+  },
+  {
+    "date": "3 juillet 2020",
+    "elu": "Julie REYNARD",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Julie-Reynard.jpg",
+    "qualification": "Premier Conseil",
+    "titre": "Perdus",
+    "descriptif": "JE me souvens du premier conseil où les services avaient organisé des files pour tout un tas de choses à nous donner. Je me souviens avoir fait la queue avec Alex B pour avoir au final un ticket pour les parkings qui ne me servira jamais et Alex n'a pas le permis ! JE me souviens de ce temps ultraaaaa long pour le maquillage où je suis sortie avec des yeux barbouillés et un fonc de tein horrible. Les photos s'en souviennent !"
+  },
+  {
+    "date": "14 juillet 2020",
+    "elu": "Léonore MONCOND'HUY",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2023/07/leonore-500-500.jpg",
+    "qualification": "Premier 14 juillet",
+    "titre": "Ca se fait, ça se fait pas ? Usages protocolaires...",
+    "descriptif": "14 juillet 2020 : première cérémonie officielle, la fierté de voir notre belle équipe municipale qui avait sorti les habits du dimanche, et le parcours un peu solitaire de la Maire entourée du \"haut protocole\"... Malgré le contexte encore covidé, ce fut une belle cérémonie, couronnée par un concert de la fanfare de la 9e BIMA. Portée par l'émotion, la dernière note jouée, je me mets à applaudir à tout rompre ! Avant de me rendre compte que j'étais la seule parmi le rang protocolaire... \"Ca se fait ? Ca se fait pas ?\" la première d'une longue série de questions d'apprentissage !"
+  },
+  {
+    "date": "Juillet et août 2020",
+    "elu": "Hélène PAUMIER",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2023/06/helene-paumier-2023.jpg",
+    "qualification": "La préparation de la rentrée 2020",
+    "titre": "Des services sur le pont",
+    "descriptif": "Nous sortons du premier confinement : les agents du service éducation sont épuisés mais ont fait bloc. Il va s'agir maintenant de préparer cette prochaine rentrée sans trop pouvoir préjuger de l'évolution de la pandémie. Pendant tout l'été les services seront disponibles et accueillants : je découvre le rôle d'adjointe dans des conditions pour le moins inédites !"
+  },
+  {
+    "date": "Eté 2020",
+    "elu": "Bastien BERNELA",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Bastien-Bernela.jpg",
+    "qualification": "Caserne",
+    "titre": "Construire ensemble un projet structurant",
+    "descriptif": "Dès les premières semaines de mandat, nous avons échangé avec le collectif d'acteurs qui avait porté un plaidoyer autour de la requalification de la Caserne Pont-Achard en tiers-lieu ESS. Nous décidons de nous lancer dans l'aventure de l'urbanisme transitoire : 18 mois d'exploitation temporaire d'une partie du lieu, avant d'engager une phase de travaux. Des heures de concertations nous ont permis de construire la programmation du projet Caserne, les travaux commencent, livraison en 2025 !"
+  },
+  {
+    "date": "2ème semestre 2020",
+    "elu": "Stéphane ALLOUCH",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4488.jpg",
+    "qualification": "un dialogue social rénové",
+    "titre": "les chantiers RH, une enveloppe financière annuelle",
+    "descriptif": "Pour que le dialogue social ne soit plus une opposition, mais plutôt un échange constructif, j'ai proposé que les 3 collectivités financent chaque année une enveloppe supplémentaire pour coconstruire avec les Organisations syndicales des actions sociales à destination des agents : harmonisation des régimes indemnitaires, tickets restaurants revalorisés, contribution employeur mutuelle et prévoyance, etc..."
+  },
+  {
+    "date": "14 août 2020",
+    "elu": "Frankie ANGEBAULT",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Frankie-Angebault.jpg",
+    "img": "https://poitierscollectif.fr/wp-content/uploads/2023/06/frankie-mariage.jpeg",
+    "qualification": "coup de coeur",
+    "titre": "premier mariage",
+    "descriptif": "gros stress pour officier mon premier mariage en ce début de mandat. J'avais contacté les futurs mariés en amont afin de préparer au mieux l'évènement. En fin de cérémonie, les deux époux sont venus vers moi pour me remercier et pour m'offrir quelques présents personalisés : ils savaient que c'était mon premier mariage. Un souvenir qui restera gravé :)"
+  },
+  {
+    "date": "28 août 2020",
+    "elu": "Pierre RIGOLLET",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
+    "qualification": "Sujet sensible",
+    "titre": "Arrêt des captures de pigeons",
+    "descriptif": "Début de mandat. Le service Hygiène Publique m'informe des difficultés à trouver des lieux de capture de pigeons. Après de nombreux échanges sur les options de régulation, nous abordons les moyens humains et financiers déployés par le passé : environ 2000€ pour tuer 300 pigeons en 2018 et pareil en 2019, soit presque 7€ par pigeon. Je mets un terme à la politique de capture et prépare une campagne de prévention avec panneaux sur sites. Le nourrissage, les déchets et les combles mal isolés sont le vrai fléau qui fait proliférer les pigeons."
+  },
+  {
+    "date": "Octobre 2020",
+    "elu": "Clémence POURROY",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
+    "qualification": "Vie républicaine",
+    "titre": "Porter une nouvelle vision de la laïcité",
+    "descriptif": "Un dialogue de sourds entre une ministre et des jeunes venus débattre de religions, le tout dans un climat délétère faisant suite à l'attentat contre Samuel Paty... Et si la laïcité permettait aussi d'ouvrir des espaces de dialogue autour de la manière dont les habitant.es vivent leurs convictions, quelles qu'elles soient ? Et si il fallait avant tout faire oeuvre de formation ? Avec la maire, nous entamons un travail pour prendre une délibération autour de la laïcité."
+  },
+  {
+    "date": "Décembre 2020",
+    "elu": "Léonore MONCOND'HUY",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2023/07/leonore-500-500.jpg",
+    "qualification": "Première centenaire",
+    "titre": "Mémoires de Poitiers",
+    "descriptif": "Il m'arrive d'être sollicitée pour souffler les bougies des centenaires poitevins. Parmi toutes les rencontres qu'offre un mandat, j'aime particulièrement échanger avec les ainés qui sont la mémoire d'un Poitiers d'avant : le tramway, les fermes et les champs où sont nés des quartiers dans les années 70, les guinguettes... Je me souviens de cette dame, en fauteuil, me disant sa fierté d'avoir été championne de valse lors d'un concours à Chauvigny. Ce Monsieur, dont les parents avaient une ferme, dans ce qui est aujourd'hui la Blaiserie. Ils ne sont pas nostalgiques... mais je le deviens souvent, à les écouter !"
+  },
+  {
+    "date": "Année 2020",
+    "elu": "Claude THIBAULT",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/06/IMG_4503.jpg",
+    "qualification": "\"Grand\" projet",
+    "titre": "Parc du triangle d'or",
+    "descriptif": "Dès nos premières rencontres avec les services, je demande à partager le budget prévu pour \"Blossac se ressource\" avec un nouveau projet hors centre ville: le parc du triangle d'or. Et c'est parti ! le 1° parc entièrement imaginé, travaillé et conçu avec les habitants. Les travaux commencent en septembre 2023 et Il sera inauguré avant l'été 2024."
+  },
+  {
+    "date": "Année 2020",
+    "elu": "Pierre RIGOLLET",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
+    "qualification": "Sauver EQUIPAIX",
+    "titre": "Sauver EQUIPAIX",
+    "descriptif": "L'association EQUIPAIX prend soin chaque année de nouveaux chevaux maltraités, abandonnés, ou retraités du poney club des bois de St Pierre et du centre équestre. La crise COVID a diminué fortement ses possibilités d'événements caritatifs, et elle nous alerte qu'elle risque de déposer le bilan. Nous passons à une subvention exceptionnelle de 5000€ et je rencontre l'élu sport à Grand Poitiers pour qu'il puisse créer une nouvelle subvention pérenne de 5000€. Il accepte !"
+  },
+  {
+    "date": "Année 2020",
+    "elu": "Zoé LORIOUX-CHEVALIER",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4406.jpg",
+    "qualification": "Découverte",
+    "titre": "Une nouvelle fonction, un rôle nouveau",
+    "descriptif": "Si être élue à 20ans est une opportunité sans pareil, la difficulté de trouver des personnes qui comme nous, vivent une vie de décalage avec les personnes de leur âge fut compliqué. Et si ce mandat est une découverte et un apprentissage permanent, la réalité d'être jeune, femme, aux responsabilités n'est pas des plus évidentes. Pourtant, la rencontre avec les services, soutien essentiel, ou avec le réseau des élues écologistes en charge des relations internationales n'en a été que plus salvateur."
+  },
+  {
+    "date": "Année 2020",
+    "elu": "Zoé LORIOUX-CHEVALIER",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4406.jpg",
+    "qualification": "Coup de coeur / plaisir",
+    "titre": "Premier mariage / premier baptême républicain",
+    "descriptif": "être élue, c'est aussi l'opportunité de représenter la République, en portant l'écharpe mais aussi, dans mon cas en disant des phrases cultes telles que \"Au nom de la loi, je vous déclare unis par le mariage\". Et quelle joie et quel honneur d'avoir pu le faire à de nombreuses reprises depuis le début de ce mandat. C'est le même plaisir que je retrouve lorsque je remets la déclaration des droits de l'enfant lors des baptêmes républicains."
+  },
+  {
+    "date": "De 2020 à 2022",
+    "elu": "Pierre RIGOLLET",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
+    "qualification": "Origine et Prise en main de ma fonction d'élu",
+    "titre": "2 ans de rodage",
+    "descriptif": "Mes 2 premières années de mandat furent tourbillonnantes et pleines d'ascenseurs émotionnels. N'ayant jamais été dans des études politiques ni encarté, je suis passé de militant idéaliste à élu local délégué à la Bientraitance Animale. La crise sanitaire, sociale, économique et écologique ont rendu l'exercice de ce mandat encore plus difficile, et 2 ans n'étaient pas de trop pour assimiler en urgence toute la complexité, les paradoxes et les nuances de cette fonction."
+  },
+  {
+    "date": "De 2020 à 2023",
+    "elu": "Zoé LORIOUX-CHEVALIER",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4406.jpg",
+    "qualification": "Vie étudiante ?",
+    "titre": "Elue et étudiante, c'est possible ?",
+    "descriptif": "Faire le choix d'une filière pour avoir le temps de me consacrer au mandat. Devoir par moment être moins présente dans mon mandat pour me consacrer aux études. Le statut d'étudiant.e élu.e n'existe pas, il a fallu, durant ces trois dernières années, tenter, tant bien que mal, d'équilibrer ces deux pans importants de ma vie de jeune femme. C'était épuisant, éreintant même, mais surtout tellement riche et formateur. Loin des soirées étudiantes, les soirées de représentations ou de travail faisaient partie de mon quotidien, les négociations avec les professeurs en début d'année également..."
+  },
+  {
+    "date": "De 2020 à 2023",
+    "elu": "Elisabeth NAVEAU DIOP",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Elisabeth-Naveau-Diop.jpg",
+    "qualification": "Mamam, élue, et création d'activité",
+    "titre": "Mamans à nous de jouer !",
+    "descriptif": "A la veille du 1er tour, j'accouchais de mon 3eme enfant. Pas toujours facile de mener de front : maman, élue, activité professionnelle, et la préservation de son couple. Je me suis souvent sentie en décalage, et parfois exclue du fait de mon quotidien. Mes enfants peuvent être mes faiblesses : manque de sommeil, etc., mais ils sont surtout ma force pour porter une autre vision du monde et me contraignent agréablement à m'extraire à juste dose du monde politique frénétique!"
+  },
+  {
+    "date": "2020 à 2023",
+    "elu": "Maxime PEDEBOSCQ",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Maxime-Pedebosq.jpg",
+    "qualification": "Vie personnelle",
+    "titre": "Les études, le grand oublié de l'engagement",
+    "descriptif": "Dur d'être étudiant dans la vie publique française ! A notre arrivée aux responsabilités, tous les collègues ont réfléchi aux aménagements de temps possible avec leurs divers employeurs, pour pouvoir effectuer leur mandat au mieux. Cependant, le statut permettant aux élus d'obtenir cela n'existe pas pour les étudiants, l'engagement des jeunes étant l'impensée de nos vies politiques. Face à ces réalités, j'ai du prendre une année de césure, mettre en pause mes études pendant un an, pour pouvoir aborder mon mandat de vice président au sport de Grand Poitiers. Dur"
+  },
+  {
+    "date": "Année 2021",
+    "elu": "Julie REYNARD",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Julie-Reynard.jpg",
+    "qualification": "Participation à la Préfig ACP",
+    "titre": "ça fait du bien !",
+    "descriptif": "J'étais élue volontaire pour participer à la préfiguration de l'Assemblée Citoyenne et Populaire. Le groupe de préfiguration était constituée d'habitant.es, de services et d'élu.es. En arrivant sur la première journée, personne n'a présenté sa \"casquette\" et tout le monde travaillait ensemble. Le travail avec les services et les habitants était fort, la co-construction était en marche. Les 3 week-ends ont fait un bien fou pour aboutir à un dispositif de participation innovant et unique en France (Pas assez mis en avant à mon avis), je retrouvais à ces moments-là pourquoi je me suis impliquée dans Poitiers Collectif : faire de la politque autrement !\r\n"
+  },
+  {
+    "date": "Année 2021",
+    "elu": "Pierre RIGOLLET",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
+    "qualification": "Interdiction de la chasse aux Bois de St Pierre",
+    "titre": "Interdiction de la chasse aux Bois de St Pierre",
+    "descriptif": "Une des 1ères actions fortes de mon mandat : l'interdiction de la chasse et du droit de poursuite aux Bois de St Pierre. Elles étaient auparavant pratiquées, croisant parfois des enfants à 4 pattes ou dans leurs poussettes, des promeneurs et promeuneuses du dimanche venus ici pour faire un bain de nature et de sérénité. Les nombreux coups de feu choquaient assurément les visiteurs et les animaux du parc animalier coincés dans leurs enclos."
+  },
+  {
+    "date": "Année 2021",
+    "elu": "Pierre RIGOLLET",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
+    "qualification": "Conférence et Ateliers d'éducation canine",
+    "titre": "Conférence et Ateliers d'éducation canine",
+    "descriptif": "Comme moi, beaucoup de gens ont peur des gros chiens qu'ils ne connaissent pas, parfois même des petits ! Le meilleur antidote, c'est la connaissance et la pratique accompagnée. J'avais à coeur de mettre en place tout cela, et nous avons enfin réussi notre 1ère conférence suivie d'ateliers pratiques avec les chiens et leurs propriétaires. Nous avons trouvé Margot FORTIN, une éthologue spécialiste des chiens et d'éducation positive. Objectif final : en faire dans chaque quartier de Poitiers et au caniparc de St Eloi."
+  },
+  {
+    "date": "Année 2021",
+    "elu": "Julie FONTAINE",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Julie-Fontaine.jpg",
+    "img": "https://poitierscollectif.fr/wp-content/uploads/2023/06/julie-fontaine-interview.jpg",
+    "qualification": "Première grève",
+    "titre": "Au coeur de la révolte",
+    "descriptif": "Fin d'année 2021, les animateurs et animatrices périscolaires de Poitiers se mettent en grève, je décide d'aller à leur rencontre devant le Carré Bleu. Un moment très fort en échanges, je me montre à l'écoute, je comprends davantage les difficultés et on me partage des récits du quotidien au sein des accueils périscolaire. Ma présence est bien reçue, l'échange est dur mais constructif. Va en découler ensuite plusieurs mois de travail, d'échanges avec les responsables périscolaires, la direction éducation et périscolaire et la direction RH, pour aboutir à notre notre plan d'appui et de revalorisation des professionnel.le.s."
+  },
+  {
+    "date": "Année 2021",
+    "elu": "Elisabeth NAVEAU DIOP",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Elisabeth-Naveau-Diop.jpg",
+    "qualification": "Acculturation",
+    "titre": "Déconstruisons les préjugés !",
+    "descriptif": "Tout le monde semblait tout savoir sur Ekidom .Ekidom ceci, Ekidom cela! J'ai tenu à prendre mon temps pour bien comprendre la structure et le monde du logement social : ses véritables enjeux. L'écart était un gouffre entre ce que j'ai pu entendre et ce qui se passe réellement. Majoritairement, des hommes et des femmes qui ont une forte vocation sociale et font leur maximum pour porter le logement social malgré tous les obstacles : politiques nationales en berne et les multiples difficultés sociétales !"
+  },
+  {
+    "date": "Année 2021",
+    "elu": "Elisabeth NAVEAU DIOP",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Elisabeth-Naveau-Diop.jpg",
+    "qualification": "Débattre, échanger, construire",
+    "titre": "Symbioses ou Moments de Grâce",
+    "descriptif": "Prendre ses fonctions dans un climat national méfiant vis à vis du politique est un vrai défi ! L'interconnaissance, le débat, les prises de conscience des réalités de chacun, et la co-construction sont d'autant d'ingrédients de l'éducation populaire qui nous sont chers. Ils permettent de créer un nouveau climat de confiance et d'avancer collectivement. Quand les différents services vous proposent spontanément des actions s'inscrivant dans cette démarche, et notre projet politique, je me dis que le pari est réussi !"
+  },
+  {
+    "date": "De 2021 à 2023",
+    "elu": "Pierre RIGOLLET",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
+    "qualification": "vie publique - vie privée",
+    "titre": "24h/24 ? 7j/7 ?",
+    "descriptif": "On m'avait prévenu qu'être un élu local pouvait parfois s'apparenter à un sacerdoce, entraînant des sollicitations et des jugements de toutes parts, parfois virulents, à n'importe quelle heure et n'importe où. Je confirme. Dès que l'on me reconnait, que l'on apprend ma fonction, les gens se métamorphosent souvent. Des inconnu-es, des connaissances ou des proches vident leurs sacs : \"Oui bah c'est n'importe quoi le prix des parkings, vous êtes en train de tuer les commerces !\" ; \"Tu es devenu quelqu'un d'important maintenant !\" ; \"On est envahis par les pigeons ! Qu'est-ce que vous attendez pour réagir ?\" ; \"Tu pourrais voir avec la maire pour me trouver une salle ?\"..."
+  },
+  {
+    "date": "Janvier 2021",
+    "elu": "Aloïs GABORIT",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4486.jpg",
+    "qualification": "L'extinction de l'éclairage public",
+    "titre": "Agir vite et rattraper les erreurs",
+    "descriptif": "Fin 2020, nous voulons agir vite pour profiter du couvre-feu et expérimenter l'exctinction de l'éclairage public la nuit. Probablement trop vite puisque nous manquons des étapes nécessaires que nous essayons de rattraper ensuite en recontrant les acteurs des quartiers, les associations et les forces de l'ordre. S'en suivent une série de réunions publiques parfois houleuses, parfois tendues mais toujours avec cette volonté de défendre une mesure nécessaire et de réfléchir à sa mise en oeuvre avec les habitants."
+  },
+  {
+    "date": "28 janvier 2021",
+    "elu": "Clémence POURROY",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
+    "qualification": "Construction collective de la politique culturelle",
+    "titre": "Lancement de Culture commune !",
+    "descriptif": "\"Faire avec et pas à la place de\" pourrait être notre slogan. C'est pourquoi, avec Charles Reverchon-Billot, adjoint aux espaces publics et délégué au droit culturel, nous avons souhaité réunir les acteurs de la culture, dans un contexte inédit... Après plusieurs mois de confinement, le monde de la culture, ces amateurs et professionnels amoureux du lien et de la rencontre étaient durement touchés. Cette rencontre en visio, a été un merveilleux moment d'échanges, une soupape essentielle !"
+  },
+  {
+    "date": "Avril et mai 2021",
+    "elu": "Hélène PAUMIER",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2023/06/helene-paumier-2023.jpg",
+    "img": "https://poitierscollectif.fr/wp-content/uploads/2023/06/20230623_183855.jpg",
+    "qualification": "Démarche consultative pour le PEG",
+    "titre": "Parler ensemble de l'éducation",
+    "descriptif": "Pour écrire le Programme Educatif Global, nous avons adopté la consultation, premier degré de la partipation citoyenne. Ainsi plus de 1000 enfants ont pu faire remonter, sur le temps périscolaire, leurs regards et leur avis sur l'Education Nature ou la Participation citoyenne !"
+  },
+  {
+    "date": "26 mai 2021",
+    "elu": "Clémence POURROY",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
+    "qualification": "Rencontre marquante",
+    "titre": "Le Palais à hauteur d'enfants",
+    "descriptif": "Dans le cadre de la requalification du Palais des ducs d'Aquitaine, nous menons des \"préfigurations\". Imaginer ce que pourrait être le Palais demain : qui de mieux placés que des enfants pour le faire ? Une tyrolienne accrochée à la charpente, un quartier vert, qui permette à toutes et tous de se déplacer facilement, solidaire ... J'étais très heureuse d'échanger sur ces projets parfois très ambitieux avec ces enfants engagé.es, et ils pouvaient être fier.es de leur travail collectif !"
+  },
+  {
+    "elu": "Alexandra BESNARD",
+    "qualification": "des ronds dans des carrés",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4415.jpg",
+    "titre": "24/24",
+    "descriptif": "Mais comment je vais réussir concilier travail/mairie/enfant ?! Savant jonglage entre équilibre temps pro/mairie, dépassement régulier et heures supp au boulot... ami.es et babysitteuse qui dépanennt pour garder l'enfant, participation aux réunions du dit enfant ( qui apprécie plus les fêtes de quartier que les AG étrangement :). Bref, un jonglage de toutes les semaines qui demandent une sacrée organisation et surtout une sacrée solidarité, alors merci aux ami.es qui soutiennent mon organisation parfois sportive et de ce fait contribuent à ce que je puisse exercer mon mandat ! "
+  },
+  {
+    "date": "2 juillet 2021",
+    "elu": "Charles REVERCHON-BILLOT",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2023/07/charles-960-960.jpg",
+    "qualification": "Grand projet",
+    "titre": "Choix de l'équipe de maitrise d'oeuvre du Palais",
+    "descriptif": "Après de longs mois de dialogue compétitif, l'Atelier Novembre était enfin choisi pour piloter le projet du quartier du Palais. Un choix décisif qui nous accompagnera jusqu'en 2030 avec la réhabilitation du Palais des Ducs d'Aquitaine et des Comtes du poitou mais également son quartier."
+  },
+  {
+    "date": "21 août 2021",
+    "elu": "Pierre RIGOLLET",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
+    "qualification": "Ma 1ère célébration de mariage",
+    "titre": "1er mariage = LGBTI+",
+    "descriptif": "Mon premier mariage fut exceptionnel : c'était celui d'une très bonne amie qui m'avait demandé de célébrer son mariage, et je connaissais déjà bien sa future femme. Mme la maire était également présente pour célébrer leur mariage, en français et en italien - l'une des mariées étant italienne de naissance."
+  },
+  {
+    "date": "Septembre 2021",
+    "elu": "Zoé LORIOUX-CHEVALIER",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4406.jpg",
+    "qualification": "Fierté / reconnaissance !",
+    "titre": "Première représentation internationale, premier départ.",
+    "descriptif": "J'ai la chance, dans le cadre de ma délégation de représenter la Ville de Poitiers chez nos partenaires internationaux. Le premier déplacement à Marbourg pour rencontrer nos homologues, et accompagner les premières équipes du défi jeunes a été une étape dans mon mandat. La découverte du protocole, la signature des registres, mais surtout, la prise de conscience de l'action internationale permettait à des jeunes de partir. Depuis, ils sont bientôt une centaine a avoir pu profiter de cette expérience !"
+  },
+  {
+    "date": "Septembre 2021",
+    "elu": "Léonore MONCOND'HUY",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2023/07/leonore-500-500.jpg",
+    "qualification": "Enfants",
+    "titre": "Les questions que tout le monde se pose ?",
+    "descriptif": "J'aime beaucoup aller dans les écoles de Poitiers, où je suis souvent invitée pour échanger avec les élèves. Après 3 ans de mandat, le top 3 incontesté de leurs questions est 1) Roulez-vous en Ferrari ? 2) Avez-vous des gardes du corps ? 3) Avez-vous déjà vu Emmanuel Macron ? En somme : faire évoluer l'image de Maire est encore un défi ! Et, si vous aussi vous posez ces questions : je ne réponds oui qu'à l'une d'entre elles :)"
+  },
+  {
+    "date": "22 septembre 2021",
+    "elu": "Clémence POURROY",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
+    "qualification": "Construction collective de la politique culturelle",
+    "titre": "Retrouvailles apéritives autour de Culture commune",
+    "descriptif": "Cette fois, c'est \"irl\", dans la vraie vie, et après les échanges, on trinque ! Les retrouvailles des acteurs du monde de la culture dans le cadre du dispositif Culture commune, dans le cadre convivial du Confort moderne, est un grand souvenir. Je mesure ma chance de rencontrer autant de personnes diverses et inspirantes. Par la suite, nous nous retrouverons souvent autour de cafés ou d'apéros, toujours avec un immense plaisir et autour de sujets concrets comme la répartition des subventions."
+  },
+  {
+    "date": "1er octobre 2021",
+    "elu": "Julie REYNARD",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Julie-Reynard.jpg",
+    "qualification": "Première concertation",
+    "titre": "concertation terrasses",
+    "descriptif": "LA première concertation avec les commerçants à la Poitiers Collectif avec Théo Saget : on a sorti la totale : les post it, les temps de discussion, le groupe de travail pour des réunions intermédiaires, etc. \r\nEt tout a magnifiquement marché, même si j'avais quelques doutes, ils ont embarqué directement pour aboutir à une solution que je n'aurais pas pu imaginer"
+  },
+  {
+    "date": "Décembre 2021",
+    "elu": "Hélène PAUMIER",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2023/06/helene-paumier-2023.jpg",
+    "qualification": "La Cité Educative",
+    "titre": "Décider et agir dans l'urgence",
+    "descriptif": "Nous savons qu'à ce moment, c'est la dernière vague de labellisation \"Cité Educative\" : un dispositif d'accompagnement fort du point de vue financier de la part de l'Etat auprès des Quartiers Politiques de la ville. Même si l'Etat finance largement, la collectivité doit aussi participer. C'est un pari : nous (Madame la Maire, moi, Alexandra duval, les services Education et Politique de la Ville) actons que nous déposons un dossier de candidature pour le quartier des Couronneries. C'est un énorme travail pour les services : le dossier est complexe et long à monter. Pourtant, il leur faudra 15 jours à peine pour rassembler tous les éléments, les analyser, les mettre en ordre. En février 2022, un samedi après-midi, j'apprends via twitter (c'est vrai !) que nous avons obtenu le label (soit 350 000 euros multiplié par trois !). Aujourd'hui, je ne regrette rien de cette décision prise un peu en retenant notre respirantion : de très belles actions de soutien aux jeunes de 0 à 25 ans, et à leur famille, se déploient sur le quartier des Couronneries ! Nous n'avons pas mis les équipes à l'épreuve pour rien !"
+  },
+  {
+    "date": "30 novembre 2021",
+    "elu": "Julie FONTAINE",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Julie-Fontaine.jpg",
+    "qualification": "Première ITW France 3",
+    "titre": "123 Coupez !",
+    "descriptif": "Le 30 novembre 2021, suite à la série de grèves des professionel.le.s du périscolaire, France 3 me sollicite pour une interview télé au sein de l'école Saint Exupéry et Coligny Cornet. 1er passage à la télé de ma vie, j'étais plutôt stressé, je me suis préparée pendant 2h... On a filmé plusieurs plans pendant au moins 40 minutes, il m'a fallu très peu de prises pour bien faire passer les messages les plus importants. Pas évident mais j'étais plutôt contente et le sentiment d'avoir tenu un discours juste et engagé. Le lendemain, l'itw passe, tout ce stress pour un passage de 15 secondes, avec la seule phrase, vide de sens et où j'eccorche deux mots...GENIAL !"
+  },
+  {
+    "date": "2022 et 2023",
+    "elu": "Laurence DAURY REIG",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/06/IMG_8609.jpg",
+    "qualification": "Apprendre, Comprendre, Agir",
+    "titre": "Considération des plus âgé.es",
+    "descriptif": "Après avoir intégrer la notion du \"temps municipal\", c.à.d le temps nécessaire pour concrétiser un projet, la satisfaction d'améliorer le quotidien. Pouvoir agir, avec et pour les plus âgé.es, afin d'ouvrir de nouveaux espaces des possibles. Liens intergénérationnels, Ville amie des Aîné.es, favoriser l'inclusion sous toutes ses formes."
+  },
+  {
+    "date": "A partir de 2022",
+    "elu": "Chantal NOCQUET",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Chantal-Nocquet.jpg",
+    "qualification": "la charte 0 déchet",
+    "titre": "Enfin dans la peau d'une élue",
+    "descriptif": "Etre dans la minorité de la majorité ou être dans la majorité de la majorité, autre exercice, exercice qui appelle plus de erseponsabilité mais aussi plus enthousiasmant. La charte est enfin lancée. Mon entrée dans GP me rend finalement \"plus légitime\". La participation à l'élaboration du plan déchets m'enthousiasme. Double impression d'avoir trouvé sa place mais culpabilité de ne jamais en faire assez."
+  },
+  {
+    "date": "Année 2022",
+    "elu": "Alexandra BESNARD",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4415.jpg",
+    "qualification": "Co-construction",
+    "descriptif": "AAAAh le Plan Numérique Responsable ! Il nous aura quelques nuits blanches à Ombelyne et moi même ! Une démarche innovante pour coconstruire le 1er plan numérique responsable pour la ville; exigeante du point de vue de la méthode, accompagnée par la Commission nationale du débat Public, pas facile de répondre à leurs attentes, on aura navigué mais pour finalement arriver à un bilan de leur part très positif et qui valide bien la qualité et la sincérité de la démarche !"
+  },
+  {
+    "date": "Année 2022",
+    "elu": "Alexandra BESNARD",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4415.jpg",
+    "qualification": "CPO",
+    "descriptif": "Être adjointe aux maisons de quartier c'est travailler avec des associations engagées et passionnantes ! C'est passer 8 samedis à travailler à nos CPO, échanger, ne pas être d'accord, s'interroger, accepter de changer de regard, convaincre et se laisser convaincre pour créer du consensus. C'est aussi défendre notre \" modèle poitevin\" auprès d'autres villes en valorisant la confiance, la transparence et la co-construction dans la relation partenariale. C'est faire de la politique autrement !"
+  },
+  {
+    "date": "Février 2022",
+    "elu": "Julie REYNARD",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Julie-Reynard.jpg",
+    "qualification": "Borne rue de Mexico",
+    "titre": "Au forceps",
+    "descriptif": "LA mise en place de la borne rue de Mexico pour la pietonnisation de la place Notre Dame est une des actions dont je suis le plus fière. PAs tant pour la mise en service de la borne en elle-même mais bien pour le bras de fer que j'ai remporté avec les services en début de mandat. On savait que c'était faisable et souhaitable, mais il a fallu beaucoup de réunions et de validations pour aboutir à ce résultat. Tout y est passé : c'est cher, c'est compliqué, il faut la mettre devant les commerçants, bref, ce n'est pas possible ! \r\nAujourd'hui quand je prends un café le samedi matin sur la place, je me dis que ça au moins, c'est réussi !"
+  },
+  {
+    "date": "Août 2021 et Mars 2022",
+    "elu": "Vincent GATEL",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4437.jpg",
+    "qualification": "Accueil de réfugiés afghans et ukrainiens",
+    "titre": "Sur le pont !",
+    "descriptif": "En charge de la politique municipale d'hospitalité, je ne pensais pas me retrouver en situation de répondre présent à l'urgence d'acceuillir des personnes devant fuir leur pays lors de deux crises internationales majeures aussi rapprochées."
+  },
+  {
+    "date": "1er mai 2022",
+    "elu": "Bastien BERNELA",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Bastien-Bernela.jpg",
+    "qualification": "TZCLD",
+    "titre": "Projet TZCLD déposé !",
+    "descriptif": "A notre arrivée 2020, besoin de s'approprier ce sujet complexe : des acteurs sont au travail depuis déjà 2 ans pour se lancer dans l'expérimentation TZCLD ! CLE, EBE, CDE, exhaustivité, supplémentarité : un vrai vocabulaire à part. Après des mois de travail, on se sent légitimes et armés pour donner un coup d'accélérateur au projet. C'est avec une émotion certaine que nous déposons symboliquement la candidature de la Ville de Poitiers dans les locaux de Chilvert !"
+  },
+  {
+    "date": "Mai 2022",
+    "elu": "Léonore MONCOND'HUY",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2023/07/leonore-500-500.jpg",
+    "qualification": "Education Populaire",
+    "titre": "Poitiers, Capitale de l'éduc'pop ?",
+    "descriptif": "Dans l'équipe municipale, nous sommes nombreux à être issus de l'éducation populaire, dont les pratiques nourrissent au quotidien notre projet. Je suis très fière qu'avec les Rencontres Nationale de l'Education Populaire, nous ayons réussi à faire de Poitiers une ville qui fédère tous les acteurs du secteur : associations, mais aussi élus et techniciens. Plus de 400 participants réunis pour se retrouver, porter des plaidoyers communs, et se former pour mieux se connaître et préparer l'avenir ensemble. Prochaine édition en 2024 !"
+  },
+  {
+    "date": "31 mai 2022",
+    "elu": "Frankie ANGEBAULT",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Frankie-Angebault.jpg",
+    "img": "https://poitierscollectif.fr/wp-content/uploads/2023/06/frankie-parade.jpeg",
+    "qualification": "Coup de coeur",
+    "titre": "Velo parade",
+    "descriptif": "en cloture de la session de Mai à Vélo 2022, quel plaisir de particpr à la vélo parade organisée par les associations cyclistes locales avec une centaine de cyclistes :) La culture vélo se développe à Poitiers et nous mettons tout en oeuvre pour diffuser cette culture localement"
+  },
+  {
+    "date": "Eté 2022",
+    "elu": "Clémence POURROY",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
+    "qualification": "Animation de la ville",
+    "titre": "Aliénor à l'honneur",
+    "descriptif": "Pour une néo-poitevine comme moi, redécouvrir la figure d'Aliénor, cette double reine qui a durablement marqué la ville, a été un grand plaisir ! J'ai dévoré toutes les bibliogrraphies, des plus scientifiques aux plus romancées. Et dans le cadre du projet du Palais des ducs d'Aquitaine, nous avons programmé une \"saison Aliénor\" à l'occasion des 900 ans de sa naissance... Des propositions tournées vers tous les publics, pour faire découvrir cette figure inspirante au plus grand nombre !"
+  },
+  {
+    "date": "23 septembre 2022",
+    "elu": "Pierre RIGOLLET",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
+    "qualification": "Signature charte ETICA : bien-être animal dans la restauration collective",
+    "titre": "1ère ville \"ETICA\"",
+    "descriptif": "Voté en juin 2022 et porté par ma collègue Elodie BONNAFOUS, Poitiers devient la première ville à signer la charte ETICA - association WELFARM - dont le but est d’accompagner les acteurs de la restauration collective (1 million de repas /an à Poitiers), afin d’orienter leurs approvisionnements vers des produits plus respectueux du bien-être des animaux. Moins de viande, des aliments de meilleure qualité, des oeufs et des bovins d'élevages en plein air uniquement, aucun produit animal issu de gavage."
+  },
+  {
+    "date": "Octobre 2022",
+    "elu": "Alexandra DUVAL",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Image-d%E2%80%99iOS.jpg",
+    "qualification": "Egalité !",
+    "titre": "Création du réseau Egalité ! à Poitiers",
+    "descriptif": "Le rôle de la collectivité est entre autre d'assurer un cadre de coopération pour les associations du territoire. Concernant les associations de lutte pour les droits des femmes et contre les violences, elles ont rapidement évoqué le besoin d'avoir un soutien de la collectivité pour la création d'un réseau. En novembre 2022, nous avons ensemble lancé la Quinzaine de mobilisation Poitevine contre les violene. En mars 2023 nous avons crée ensemble le mois de l'Egalité. Quelle fierté et quelle sororité !"
+  },
+  {
+    "date": "18 octobre 2022",
+    "elu": "Frankie ANGEBAULT",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Frankie-Angebault.jpg",
+    "img": "https://poitierscollectif.fr/wp-content/uploads/2023/06/frankie-pony.jpeg",
+    "qualification": "coup de coeur",
+    "titre": "je peux pas j'ai Pony",
+    "descriptif": "le jour du lancement de la flotte Pony sur Poitiers, je me souviens des groupes de jeunes poitevins et poitevines se masser devant les vélos et trottinettes nouvellement installées, des etoiles plein les yeux."
+  },
+  {
+    "date": "1er janvier 2023",
+    "elu": "Pierre RIGOLLET",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4402.jpg",
+    "qualification": "Formons-nous !",
+    "titre": "Formations des élus et élues",
+    "descriptif": "Prise de parole en public ; Faire face aux agressions physiques et verbales ; Repérer et lutter contre le harcèlement moral, sexiste et sexuel ; Comprendre les budgets d'une collectivité ; Evaluation des politiques publiques... Ce sont quelques exemples des formations auxquelles j'ai pu participer au cours de mes premières années de mandat. Grâce à elles, je me sens mieux outillé et compétent sur des enjeux essentiels. Grand merci à notre majorité qui facilite la montée en compétence des élus et élues !"
+  },
+  {
+    "date": "Janvier 2023",
+    "elu": "Aloïs GABORIT",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4486.jpg",
+    "qualification": "L'urbanisme",
+    "titre": "Découvrir et s'approprier des sujets complexes",
+    "descriptif": "Depuis quelques mois je découvre la complexité et les rouages de l'urbanisme. Je commence à comprendre tous les acronymes contenus dans un PLUi et me plonge dans les différents documents avec enthousiasme afin de répondre aux habitants et aux promoteurs immobiliers. Je prends mes nouvelles fonctions avec humilité et responsabilité : les décisions que nous prenons vont avoir un impact pour des décennies et peuvent modifier durablement un quartier ou une ville. C'est parfois vertigineux !"
+  },
+  {
+    "date": "23 avril 2023",
+    "elu": "Maxime PEDEBOSCQ",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Maxime-Pedebosq.jpg",
+    "qualification": "inauguration",
+    "titre": "Club House Jean Luc Gaboreau, l'engagement dans nos quartiers",
+    "descriptif": "La demande du club de l'ES 3 cités d'avoir un club house datait de plus de 12 ans. Nous l'avons mis en place. L'inauguration à eu lieu devant les équipes féminines du club, et un grands nombres d'enfants du quartier. Un moment de fierté pour moi, d'avoir une action qui va tant changer la vie du club, et du quartier, pour mettre en place un vrai espace de convivialité pour les jeunes des 3 cités."
+  },
+  {
+    "date": "Mai 2023",
+    "elu": "Aloïs GABORIT",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4486.jpg",
+    "qualification": "Le réseau de chaleur urbain",
+    "titre": "Choisir le futur gestionnaire du nouveau réseau de chaleur",
+    "descriptif": "Depuis le début du mandat nous vantons les mérites du réseau de chaleur des Couronneries et nous savons que nous créerons celui de Bel-Air. Il a donc fallu choisir l'entreprise qui allait investir plus de 20 millions d'euros sur le territoire, pour créer un réseau de chaleur qui alimentera des milliers de foyers. Nous avons deux offres de très grande qualité et je ressens là toute la pression d'un choix qui engage la collectivité sur plus de 20 ans. Cela m'a coûté quelques nuits agitées !"
+  },
+  {
+    "date": "Juin 2023",
+    "elu": "Clémence POURROY",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4413.jpg",
+    "qualification": "Transformer la ville",
+    "titre": "Au chevet de Notre-Dame",
+    "descriptif": "Mon grand-père est décédé quelques semaines après mon emménagement à Poitiers. Dans son héritage, j'ai reçu un livre magnifique sur l'art roman, dont la couverture représente Notre-Dame de Poitiers. Quelle émotion de participer humblement à la rénovation de cet édifice millénaire. En juin 2023, après plusieurs années de travail, nous recevons une dotation de 250 000 € de la fondation du patrimoine, et recrutons l'architecte qui mènera les travaux. C'est un projet collectif enthousiasmant !"
+  },
+  {
+    "date": "2 et 3 juin 2023",
+    "elu": "Maxime PEDEBOSCQ",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Maxime-Pedebosq.jpg",
+    "qualification": "évènement sportif",
+    "titre": "Sports S'HANDI'SOCIATION, le sport, confronté à la température!",
+    "descriptif": "Cet évènement devait prendre place le 14 juin 2022, sur 4 équipements sportifs et regroupé plus d'une vingtaine de clubs, pour proposer aux scolaires et aux personnes en situation de handicap. La veille au soir, cette évènement a été interdit, du à la canicule, alors que 500 scolaires devaient être présent. Cela a été très marquant pour les organisateurs comme pour moi, qui était très investi sur le projet. Heureusement, nous avons pu le mettre en place en 2023 lors de la semaine des accessifs!"
+  },
+  {
+    "date": "En cours",
+    "elu": "Vincent GATEL",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/IMG_4437.jpg",
+    "qualification": "Politique d'hospitalité",
+    "titre": "Satisfaction",
+    "descriptif": "Satisfaction que la culture de l'hospitalité se diffuse dans les trois collectivités grâce à l'appui des élu.e.s et la mobilisation des services concernés : élargissement des aides du CCAS aux familles sans papiers, rénovation de logements muncipaux mis à disposition de ces familles, relations aux promoteurs immobiliers pour le developpement de l'habitat intercalaire."
+  }
+]
