@@ -2,8 +2,9 @@
   <main>    
     <Navigation></Navigation>
     <h1>Bilan mi-mandat Poitiers Collectif</h1>
-    <h2>Il faut voir ce qu'on veut raconter sur cette home&#xA0;!</h2>
-    <vue-pdf-embed :source="mySource" />
+    <h2>Bienvenue sur le site dédié au mi-mandat de Poitiers Collectif ! <br/>
+      Vous y retrouverez le <a href="https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif.pdf">bilan détaillé</a>, le <a href="/fait-pas-fait">fait / pas fait</a> et la <a href="/timeline">timeline</a> des trois dernières années ! Bonne visite !</h2>
+    <!-- <vue-pdf-embed :source="mySource" /> -->
   </main>
 </template>
 
@@ -16,7 +17,7 @@ export default {
   components: { Navigation, VuePdfEmbed },
   data() {
     return {
-      mySource: 'https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif.pdf'
+      // mySource: 'https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif.pdf'
     }
   }
 }
