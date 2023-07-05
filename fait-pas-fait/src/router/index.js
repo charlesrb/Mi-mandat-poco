@@ -10,55 +10,55 @@ const router = createRouter({
             path: "/",
             name: "home",
             component: Home,
-            meta: {
-              title: 'Bilan de mi-mandat Poitiers Collectif - Retour sur nos engagements',
-              metaTags: [
-                {
-                  name: 'description',
-                  content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
-                },
-                {
-                  name: 'og:title',
-                  content: 'Bilan de mi-mandat Poitiers Collectif - Retour sur nos engagements'
-                },
-                {
-                  property: 'og:description',
-                  content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
-                },
-                {
-                  property: 'og:type',
-                  content: 'website'
-                },
-                {
-                  property: 'og:url',
-                  content: 'https://mi-mandat.poitierscollectif.fr'
-                },
-                {
-                  property: 'og:image',
-                  content: 'https://poitierscollectif.fr/wp-content/uploads/2023/06/bilan-mi-mandat-meta.jpg'
-                },
-                {
-                  name: 'twitter:card',
-                  content: 'summary_large_image'
-                },
-                {
-                  property: 'twitter:description',
-                  content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
-                },
-                {
-                  property: 'twitter:title',
-                  content: 'Bilan de mi-mandat Poitiers Collectif - Retour sur nos engagements'
-                },
-                {
-                  property: 'twitter:url',
-                  content: 'https://mi-mandat.poitierscollectif.fr'
-                },
-                {
-                  property: 'twitter:image',
-                  content: 'https://poitierscollectif.fr/wp-content/uploads/2023/06/bilan-mi-mandat-meta.jpg'
-                }
-              ]
-            }
+            // meta: {
+            //   title: 'Bilan de mi-mandat Poitiers Collectif - Retour sur nos engagements',
+            //   metaTags: [
+            //     {
+            //       name: 'description',
+            //       content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
+            //     },
+            //     {
+            //       name: 'og:title',
+            //       content: 'Bilan de mi-mandat Poitiers Collectif - Retour sur nos engagements'
+            //     },
+            //     {
+            //       property: 'og:description',
+            //       content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
+            //     },
+            //     {
+            //       property: 'og:type',
+            //       content: 'website'
+            //     },
+            //     {
+            //       property: 'og:url',
+            //       content: 'https://mi-mandat.poitierscollectif.fr'
+            //     },
+            //     {
+            //       property: 'og:image',
+            //       content: 'https://poitierscollectif.fr/wp-content/uploads/2023/06/bilan-mi-mandat-meta.jpg'
+            //     },
+            //     {
+            //       name: 'twitter:card',
+            //       content: 'summary_large_image'
+            //     },
+            //     {
+            //       property: 'twitter:description',
+            //       content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
+            //     },
+            //     {
+            //       property: 'twitter:title',
+            //       content: 'Bilan de mi-mandat Poitiers Collectif - Retour sur nos engagements'
+            //     },
+            //     {
+            //       property: 'twitter:url',
+            //       content: 'https://mi-mandat.poitierscollectif.fr'
+            //     },
+            //     {
+            //       property: 'twitter:image',
+            //       content: 'https://poitierscollectif.fr/wp-content/uploads/2023/06/bilan-mi-mandat-meta.jpg'
+            //     }
+            //   ]
+            // }
           },
 
           
@@ -66,45 +66,45 @@ const router = createRouter({
         path: "/bilan-de-nos-actions",
         name: "fait-pas-fait",
         component: FaitPasFait,
-        meta: {
-          title: 'Bilan de nos actions Poitiers Collectif',
-          metaTags: [
-            {
-              name: 'description',
-              content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
-            },
-            {
-              name: 'og:title',
-              content: 'Bilan de nos actions Poitiers Collectif'
-            },
-            {
-              property: 'og:description',
-              content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
-            }
-          ]
-        }
+        // meta: {
+        //   title: 'Bilan de nos actions Poitiers Collectif',
+        //   metaTags: [
+        //     {
+        //       name: 'description',
+        //       content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
+        //     },
+        //     {
+        //       name: 'og:title',
+        //       content: 'Bilan de nos actions Poitiers Collectif'
+        //     },
+        //     {
+        //       property: 'og:description',
+        //       content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
+        //     }
+        //   ]
+        // }
       },
       {
         path: "/timeline",
         name: "timeline",
         component: Timeline,
-        meta: {
-          title: 'Un aperçu de nos trois années d\'élus et élues Poitiers Collectif',
-          metaTags: [
-            {
-              name: 'description',
-              content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
-            },
-            {
-              name: 'og:title',
-              content: 'Un aperçu de nos trois années d\'élus et élues Poitiers Collectif'
-            },
-            {
-              property: 'og:description',
-              content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
-            }
-          ]
-        }
+        // meta: {
+        //   title: 'Un aperçu de nos trois années d\'élus et élues Poitiers Collectif',
+        //   metaTags: [
+        //     {
+        //       name: 'description',
+        //       content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
+        //     },
+        //     {
+        //       name: 'og:title',
+        //       content: 'Un aperçu de nos trois années d\'élus et élues Poitiers Collectif'
+        //     },
+        //     {
+        //       property: 'og:description',
+        //       content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
+        //     }
+        //   ]
+        // }
       }
     ],
     navigationFallback: {
