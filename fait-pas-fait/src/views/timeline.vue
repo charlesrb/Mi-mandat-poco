@@ -144,6 +144,10 @@ export default {
       timeline: Timeline,
     };
   },
+  // created() {
+  //   document.title = 'Trois années d\'élus et d\'élues Poitiers Collectif'
+  //   // document.querySelector('meta[name=""]')
+  // }
 };
 </script>
 

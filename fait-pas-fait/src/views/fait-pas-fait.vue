@@ -67,7 +67,7 @@
       </ul>
 
       <div v-if="this.currentDownloadURL" class="telechargement">
-        <a :href="this.currentDownloadURL">Télécharger le bilan {{ this.nomPole }}</a>
+        <a class="lien-telechargement" :href="this.currentDownloadURL"><span class="button-telechargement">Télécharger</span></a> le bilan {{ this.nomPole }}
         <img :src="this.imgPole" class="imgPole" alt="">
 
         </div>
@@ -300,6 +300,9 @@ export default {
     },
   },
   // created() {
+  //   document.title = 'Bilan de nos actions - Poitiers Collectif'
+  // }
+  // created() {
   //   this.zero = 0
   //     this.quart = 0
   //     this.moitie = 0
@@ -387,6 +390,24 @@ progress {
   accent-color: #246667;
 }
 
+.button-telechargement {
+  background-color: #246667;
+  padding-top:5px;
+  padding-bottom:5px;
+  padding-left:10px;
+  padding-right: 10px;
+  border-radius:5px;
+  color:white;
+  font-weight: 700;
+}
+
+.button-telechargement:hover {
+  background-color: #cccf64;
+}
+
+/* .lien-telechargement {
+
+} */
 .button-7 {
   align-items: center;
   background-color: #ffffff;
