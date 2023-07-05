@@ -68,6 +68,8 @@
 
       <div v-if="this.currentDownloadURL" class="telechargement">
         <a :href="this.currentDownloadURL">Télécharger le bilan {{ this.nomPole }}</a>
+        <img :src="this.imgPole" class="imgPole" alt="">
+
         </div>
     </div>
 
@@ -172,6 +174,7 @@ export default {
       termine: 0,
       currentDownloadURL: null,
       nomPole:null,
+      imgPoleDevra:null,
     };
   },
   watch: {
@@ -180,21 +183,28 @@ export default {
         if (this.poleChoisi == "Ville d'initiatives") {
         this.currentDownloadURL = "https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif-developpement-et-rayonnement.pdf";
         this.nomPole = "du pôle développement et rayonnement local"
+        this.imgPole = "https://poitierscollectif.fr/wp-content/uploads/2023/07/elus-pole-developpement-rayonnement.png";
+
         return
       }
       if (this.poleChoisi == "Ville citoyenne") {
         this.currentDownloadURL = "https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif-democratie.pdf"
         this.nomPole = "du pôle démocratie"
+        this.imgPole = "https://poitierscollectif.fr/wp-content/uploads/2023/07/elus-pole-democratie.png";
+
         return
       }
       if (this.poleChoisi == "Ville écologique") {
         this.currentDownloadURL = "https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif-transition-ecologique.pdf"
         this.nomPole = "du pôle transition écologique"
+        this.imgPole = "https://poitierscollectif.fr/wp-content/uploads/2023/07/elus-pole-transition-ecologique.png";
+
         return
       }
       if (this.poleChoisi == "Ville solidaire") {
         this.currentDownloadURL = "https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif-lien-social-education.pdf"
         this.nomPole = "du pôle lien social et éducation"
+        this.imgPole = "https://poitierscollectif.fr/wp-content/uploads/2023/07/elus-pole-lien-social.png";
         return
       }
       if (this.poleChoisi == "Tout voir") {
@@ -204,6 +214,7 @@ export default {
       }
       this.currentDownloadURL = null;
       this.nomPole = null;
+      this.imgPole = null;
       }
     }
   },
@@ -259,21 +270,18 @@ export default {
           action.theme == this.themeChoisi &&
           action.Avancement == "25"
         ) {
-          console.log("fuck you");
           this.quart = this.quart + 1;
         } else if (
           (action.pole == this.poleChoisi || this.poleChoisi == "Tout voir") &&
           action.theme == this.themeChoisi &&
           action.Avancement == "50"
         ) {
-          console.log("fuck you");
           this.moitie = this.moitie + 1;
         } else if (
           (action.pole == this.poleChoisi || this.poleChoisi == "Tout voir") &&
           action.theme == this.themeChoisi &&
           action.Avancement == "0"
         ) {
-          console.log("fuck you");
           this.zero = this.zero + 1;
         } else if (
           (action.pole == this.poleChoisi || this.poleChoisi == "Tout voir") &&
@@ -341,6 +349,11 @@ ul {
 }
 li {
   list-style: none;
+}
+
+.imgPole {
+  margin-top:30px;
+  width:100%;
 }
 
 .telechargement {
