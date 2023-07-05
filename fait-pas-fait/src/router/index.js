@@ -18,6 +18,10 @@ const router = createRouter({
                   content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
                 },
                 {
+                  name: 'og:title',
+                  content: 'Bilan de mi-mandat Poitiers Collectif - Retour sur nos engagements'
+                },
+                {
                   property: 'og:description',
                   content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
                 },
@@ -70,6 +74,10 @@ const router = createRouter({
               content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
             },
             {
+              name: 'og:title',
+              content: 'Bilan de nos actions Poitiers Collectif'
+            },
+            {
               property: 'og:description',
               content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
             }
@@ -86,6 +94,10 @@ const router = createRouter({
             {
               name: 'description',
               content: 'L\'équipe Poitiers Collectif a été élue sur la base d\'un programme. Après trois ans, il est temps de faire un premier bilan !'
+            },
+            {
+              name: 'og:title',
+              content: 'Un aperçu de nos trois années d\'élus et élues Poitiers Collectif'
             },
             {
               property: 'og:description',
