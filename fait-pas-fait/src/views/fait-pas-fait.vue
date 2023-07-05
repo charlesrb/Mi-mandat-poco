@@ -3,8 +3,16 @@
     <Navigation></Navigation>
     <h1>Mi-mandat Poitiers Collectif</h1>
     <h2>
-      En 2020, l'équipe Poitiers Collectif a été élue sur la base d'un programme. Un programme, décliné en feuilles de route dès les premières semaines du mandat. Pour ce qui dépend de la Ville de Poitiers, nous avons identifié 248 actions. Après trois ans, il est temps de faire un premier bilan ! Fait, pas fait ? Nous avons engagé, parfois terminé, plus de 90% de ces actions. Découvrez en un coup d'oeil les déclinaisons de nos engagements de campagne en objectifs politiques et actions concrètes.
-A noter que nombre d'actions de notre programme dépendaient de Grand Poitiers. Vous pourrez alors retrouver des détails dans notre bilan détaillé !
+      En 2020, l'équipe Poitiers Collectif a été élue sur la base d'un
+      programme. Un programme, décliné en feuilles de route dès les premières
+      semaines du mandat. Pour ce qui dépend de la Ville de Poitiers, nous avons
+      identifié 248 actions. Après trois ans, il est temps de faire un premier
+      bilan ! Fait, pas fait ? Nous avons engagé, parfois terminé, plus de 90%
+      de ces actions. Découvrez en un coup d'oeil les déclinaisons de nos
+      engagements de campagne en objectifs politiques et actions concrètes. A
+      noter que nombre d'actions de notre programme dépendaient de Grand
+      Poitiers. Vous pourrez alors retrouver des détails dans notre bilan
+      détaillé !
     </h2>
     <div class="test">
       <div class="buttons">
@@ -27,7 +35,9 @@ A noter que nombre d'actions de notre programme dépendaient de Grand Poitiers. 
         </div>
       </div>
     </div>
-    <div v-if="themeChoisi == '' && poleChoisi == ''"></div>
+    <div v-if="themeChoisi == '' && poleChoisi == ''">
+      <div id="telechargement"></div>
+    </div>
     <div v-else>
       <ul>
         <li>
@@ -55,7 +65,12 @@ A noter que nombre d'actions de notre programme dépendaient de Grand Poitiers. 
           ✅ {{ this.termine }} actions terminées !
         </li>
       </ul>
+
+      <div v-if="this.currentDownloadURL" class="telechargement">
+        <a :href="this.currentDownloadURL">Télécharger le bilan {{ this.nomPole }}</a>
+        </div>
     </div>
+
     <div class="actions">
       <div v-for="action in actions" :key="action.id">
         <div
@@ -155,7 +170,42 @@ export default {
       quart: 0,
       moitie: 0,
       termine: 0,
+      currentDownloadURL: null,
+      nomPole:null,
     };
+  },
+  watch: {
+    poleChoisi:{
+      handler(value) {
+        if (this.poleChoisi == "Ville d'initiatives") {
+        this.currentDownloadURL = "https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif-developpement-et-rayonnement.pdf";
+        this.nomPole = "du pôle développement et rayonnement local"
+        return
+      }
+      if (this.poleChoisi == "Ville citoyenne") {
+        this.currentDownloadURL = "https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif-democratie.pdf"
+        this.nomPole = "du pôle démocratie"
+        return
+      }
+      if (this.poleChoisi == "Ville écologique") {
+        this.currentDownloadURL = "https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif-transition-ecologique.pdf"
+        this.nomPole = "du pôle transition écologique"
+        return
+      }
+      if (this.poleChoisi == "Ville solidaire") {
+        this.currentDownloadURL = "https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif-lien-social-education.pdf"
+        this.nomPole = "du pôle lien social et éducation"
+        return
+      }
+      if (this.poleChoisi == "Tout voir") {
+        this.currentDownloadURL = "https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif.pdf"
+        this.nomPole = "des trois premières années"
+        return
+      }
+      this.currentDownloadURL = null;
+      this.nomPole = null;
+      }
+    }
   },
   methods: {
     filtre(pole) {
@@ -166,6 +216,7 @@ export default {
       this.moitie = 0;
       this.troisquart = 0;
       this.termine = 0;
+
       for (const action of this.actions) {
         if (
           (action.pole == this.poleChoisi || this.poleChoisi == "Tout voir") &&
@@ -287,10 +338,17 @@ main {
 }
 ul {
   margin-top: 50px;
-  margin-bottom: 50px;
 }
 li {
   list-style: none;
+}
+
+.telechargement {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.telechargement > a {
+  font-weight: 700;
 }
 .check {
   color: #246667;

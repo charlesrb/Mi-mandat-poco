@@ -1,7 +1,7 @@
 <template>
     <nav>
       <router-link to="/">Accueil</router-link><br/>
-      <router-link to="/fait-pas-fait">Fait / Pas fait</router-link><br/>
+      <router-link to="/bilan-de-nos-actions">Bilan de nos actions</router-link><br/>
       <router-link to="/timeline">Timeline</router-link>
       <!-- <a href="https://poitierscollectif.fr">Retour vers Poitiers Collectif</a> -->
     </nav>

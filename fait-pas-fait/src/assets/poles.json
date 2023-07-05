@@ -2,26 +2,33 @@
     {
         "id": 0,
         "pole": "Tout voir",
-        "themes": ["Culture et espaces publics", "Patrimoine, tourisme et archéologie", "Vie sportive", "Emploi et insertion", "Développement local et ESS", "Commerce, marchés et artisanat", "Enseignement supérieur, recherche et innovation", "Commande publique responsable","Budget et finances", "Coopération internationale et européenne", "Evaluation des politiques publiques", "Numérique responsable", "Participation citoyenne", "Personnel communal", "Tranquillité publique et sécurité", "Vie associative", "Ville accueillante","Bientraitance animale", "Mobilités", "Parcs, jardins et espaces naturels en ville", "Patrimoine exemplaire", "Résilience, prévention et gestion des risques", "Restauration collective", "Urbanisme", "Végétalisation et éducation à la nature", "Voirie et éclairage public", "Zéro déchet","Droits aux loisirs et aux vacances", "Education", "Education populaire et maison de quartier", "Egalité des droits", "Jeunesse et vie étudiante", "Logement et lutte contre l'habitat insalubre", "Petite enfance", "Santé et prévention", "Solidarités", "Ville amie des aînées et aînés"]
+        "themes": ["Culture et espaces publics", "Patrimoine, tourisme et archéologie", "Vie sportive", "Emploi et insertion", "Développement local et ESS", "Commerce, marchés et artisanat", "Enseignement supérieur, recherche et innovation", "Commande publique responsable","Budget et finances", "Coopération internationale et européenne", "Evaluation des politiques publiques", "Numérique responsable", "Participation citoyenne", "Personnel communal", "Tranquillité publique et sécurité", "Vie associative", "Ville accueillante","Bientraitance animale", "Mobilités", "Parcs, jardins et espaces naturels en ville", "Patrimoine exemplaire", "Résilience, prévention et gestion des risques", "Restauration collective", "Urbanisme", "Végétalisation et éducation à la nature", "Voirie et éclairage public", "Zéro déchet","Droits aux loisirs et aux vacances", "Education", "Education populaire et maison de quartier", "Egalité des droits", "Jeunesse et vie étudiante", "Logement et lutte contre l'habitat insalubre", "Petite enfance", "Santé et prévention", "Solidarités", "Ville amie des aînées et aînés"],
+        "pdf":"https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif.pdf"
     },
     {
         "id": 1,
         "pole": "Ville d'initiatives",
-        "themes": ["Culture et espaces publics", "Patrimoine, tourisme et archéologie", "Vie sportive", "Emploi et insertion", "Développement local et ESS", "Commerce, marchés et artisanat", "Enseignement supérieur, recherche et innovation", "Commande publique responsable"]
+        "themes": ["Culture et espaces publics", "Patrimoine, tourisme et archéologie", "Vie sportive", "Emploi et insertion", "Développement local et ESS", "Commerce, marchés et artisanat", "Enseignement supérieur, recherche et innovation", "Commande publique responsable"],
+        "pdf":"https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif-developpement-et-rayonnement.pdf"
+
     },
     {
         "id": 2,
         "pole": "Ville citoyenne",
-        "themes":["Budget et finances", "Coopération internationale et européenne", "Evaluation des politiques publiques", "Numérique responsable", "Participation citoyenne", "Personnel communal", "Tranquillité publique et sécurité", "Vie associative", "Ville accueillante"]
+        "themes":["Budget et finances", "Coopération internationale et européenne", "Evaluation des politiques publiques", "Numérique responsable", "Participation citoyenne", "Personnel communal", "Tranquillité publique et sécurité", "Vie associative", "Ville accueillante"],
+        "pdf":"https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif-democratie.pdf"
     },
     {
         "id": 3,
         "pole": "Ville écologique", 
-        "themes": ["Bientraitance animale", "Mobilités", "Parcs, jardins et espaces naturels en ville", "Patrimoine exemplaire", "Résilience, prévention et gestion des risques", "Restauration collective", "Urbanisme", "Végétalisation et éducation à la nature", "Voirie et éclairage public", "Zéro déchet"]
+        "themes": ["Bientraitance animale", "Mobilités", "Parcs, jardins et espaces naturels en ville", "Patrimoine exemplaire", "Résilience, prévention et gestion des risques", "Restauration collective", "Urbanisme", "Végétalisation et éducation à la nature", "Voirie et éclairage public", "Zéro déchet"],
+        "pdf":"https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif-transition-ecologique.pdf"
     },
     {
         "id": 4,
         "pole": "Ville solidaire", 
-        "themes":["Droits aux loisirs et aux vacances", "Education", "Education populaire et maison de quartier", "Egalité des droits", "Jeunesse et vie étudiante", "Logement et lutte contre l'habitat insalubre", "Petite enfance", "Santé et prévention", "Solidarités", "Ville amie des aînées et aînés"]
+        "themes":["Droits aux loisirs et aux vacances", "Education", "Education populaire et maison de quartier", "Egalité des droits", "Jeunesse et vie étudiante", "Logement et lutte contre l'habitat insalubre", "Petite enfance", "Santé et prévention", "Solidarités", "Ville amie des aînées et aînés"],
+        "pdf":"https://poitierscollectif.fr/wp-content/uploads/2023/07/bilan-poitiers-collectif-lien-social-education.pdf"
+
     }
 ]
