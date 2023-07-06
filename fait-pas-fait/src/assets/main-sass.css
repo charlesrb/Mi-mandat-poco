@@ -16,6 +16,10 @@ body {
   margin: 50px auto;
 }
 
+.lien-timeline {
+  font-weight: 700;
+}
+
 p {
   font-weight: 300;
   line-height: 1.5;

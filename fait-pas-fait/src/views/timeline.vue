@@ -46,6 +46,7 @@
             <p>
               {{ action.descriptif }}
             </p>
+            <a v-if="action.lien" class="lien-timeline" :href="action.lien">A lire ici !</a>
             <!-- <p class="timeline-subtitle">{{action.elu}}</p> -->
           </div>
         </div>

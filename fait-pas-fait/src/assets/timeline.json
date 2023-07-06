@@ -530,7 +530,7 @@
     "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2020/01/Maxime-Pedebosq.jpg",
     "qualification": "évènement sportif",
     "titre": "Sports HANDI'SOCIATION, le sport, confronté à la température !",
-    "descriptif": "Cet évènement devait prendre place le 14 juin 2022, sur 4 équipements sportifs et regrouper plus d'une vingtaine de clubs, pour proposer aux scolaires et aux personnes en situation de handicap. La veille au soir, cet évènement a été interdit, du à la canicule, alors que 500 scolaires devaient être présent. Cela a été très marquant pour les organisateurs comme pour moi, qui était très investi sur le projet. Heureusement, nous avons pu le mettre en place en 2023 lors de la semaine des accessifs!"
+    "descriptif": "Cet évènement devait prendre place le 14 juin 2022, sur quatre équipements sportifs et regrouper plus d'une vingtaine de clubs, pour proposer aux scolaires et aux personnes en situation de handicap des activités sportives. La veille au soir, cet évènement a été interdit, en raison de la canicule, alors que 500 scolaires devaient être présents. Cela a été très marquant pour les organisateurs comme pour moi, qui était très investi sur le projet. Heureusement, nous avons pu le mettre en place en 2023 lors de la semaine des accessifs!"
   },
   {
     "date": "En cours",
@@ -539,5 +539,14 @@
     "qualification": "Politique d'hospitalité",
     "titre": "Satisfaction",
     "descriptif": "Satisfaction que la culture de l'hospitalité se diffuse dans les trois collectivités grâce à l'appui des élu.e.s et la mobilisation des services concernés : élargissement des aides du CCAS aux familles sans papiers, rénovation de logements muncipaux mis à disposition de ces familles, relations aux promoteurs immobiliers pour le developpement de l'habitat intercalaire."
+  },
+  {
+    "date": "20 juin 2023",
+    "elu": "Léonore MONCOND'HUY",
+    "imgelu": "https://poitierscollectif.fr/wp-content/uploads/2023/07/leonore-500-500.jpg",
+    "qualification": "Edito du 7 hebdo",
+    "titre": "Les femmes en politique",
+    "descriptif": "« Enfin une femme à la Mairie ! » scandaient des militantes lors de notre élection. 3 ans après, notre action, mon action, « est-elle jugée de la même manière que [mes] homologues masculins ? » La question est ouverte par Arnaud Varanne dans son édito du « 7 » de mi-mandat. Bien au delà d’avoir UNE Maire plutôt qu’UN Maire, les codes de l’exercice des responsabilités ont assurément changé sous notre mandat. Qu’en est-il pour les lunettes politiques et parfois médiatiques avec lesquelles notre action est évaluée ? Est-on aussi exigeant avec un homme élu qu’avec une femme élue ? A vos avis, la question reste ouverte !",
+    "lien":"https://www.le7.info/article/21869-jugement"
   }
 ]
