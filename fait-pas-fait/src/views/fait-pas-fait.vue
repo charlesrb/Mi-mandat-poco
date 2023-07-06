@@ -11,8 +11,7 @@
       de ces actions. Découvrez en un coup d'oeil les déclinaisons de nos
       engagements de campagne en objectifs politiques et actions concrètes. A
       noter que nombre d'actions de notre programme dépendaient de Grand
-      Poitiers. Vous pourrez alors retrouver des détails dans notre bilan
-      détaillé !
+      Poitiers. Pour un aperçu global de notre action, téléchargez notre bilan complet, en entier ou par pôle !
     </h2>
     <div class="test">
       <div class="buttons">
