@@ -10,8 +10,8 @@ const router = createRouter({
             path: "/",
             name: "home",
             component: Home,
-            // meta: {
-            //   title: 'Bilan de mi-mandat Poitiers Collectif - Retour sur nos engagements',
+            meta: {
+              title: 'Bilan de mi-mandat Poitiers Collectif - Retour sur nos engagements'},
             //   metaTags: [
             //     {
             //       name: 'description',
@@ -66,8 +66,8 @@ const router = createRouter({
         path: "/bilan-de-nos-actions",
         name: "fait-pas-fait",
         component: FaitPasFait,
-        // meta: {
-        //   title: 'Bilan de nos actions Poitiers Collectif',
+        meta: {
+          title: 'Bilan de nos actions Poitiers Collectif'},
         //   metaTags: [
         //     {
         //       name: 'description',
@@ -88,8 +88,8 @@ const router = createRouter({
         path: "/timeline",
         name: "timeline",
         component: Timeline,
-        // meta: {
-        //   title: 'Un aperçu de nos trois années d\'élus et élues Poitiers Collectif',
+        meta: {
+        title: 'Un aperçu de nos trois années d\'élus et élues Poitiers Collectif'},
         //   metaTags: [
         //     {
         //       name: 'description',
