@@ -63,7 +63,7 @@ const router = createRouter({
 
           
       {
-        path: "/bilan-de-nos-actions",
+        path: "/bilan-de-nos-actions.html",
         name: "fait-pas-fait",
         component: FaitPasFait,
         meta: {
@@ -85,7 +85,7 @@ const router = createRouter({
         // }
       },
       {
-        path: "/timeline",
+        path: "/timeline.html",
         name: "timeline",
         component: Timeline,
         meta: {
