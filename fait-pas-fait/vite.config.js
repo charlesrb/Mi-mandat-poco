@@ -20,7 +20,7 @@ export default defineConfig({
         main: resolve(__dirname, 'index.html'),
         timeline: resolve(__dirname, 'timeline.html'),
         bilandenosactions: resolve(__dirname, 'bilan-de-nos-actions.html'),
-
+        milleettuneportes:resolve(__dirname, '1001-portes.html')
       },
     },
   }
